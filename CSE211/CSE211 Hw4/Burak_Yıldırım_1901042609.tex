@@ -1,0 +1,161 @@
+\documentclass[a4 paper]{article}
+\usepackage[inner=2.0cm,outer=2.0cm,top=2.5cm,bottom=2.5cm]{geometry}
+\usepackage{setspace}
+\usepackage[rgb]{xcolor}
+\usepackage{verbatim}
+\usepackage{subcaption}
+\usepackage{amsgen,amsmath,amstext,amsbsy,amsopn,tikz,amssymb}
+\usepackage[colorlinks=true, urlcolor=blue,  linkcolor=blue, citecolor=blue]{hyperref}
+\usepackage[colorinlistoftodos]{todonotes}
+\usepackage{rotating}
+\usepackage{booktabs}
+\usepackage{amsmath}
+\newcommand{\ra}[1]{\renewcommand{\arraystretch}{#1}}
+
+\newtheorem{thm}{Theorem}[section]
+\newtheorem{prop}[thm]{Proposition}
+\newtheorem{lem}[thm]{Lemma}
+\newtheorem{cor}[thm]{Corollary}
+\newtheorem{defn}[thm]{Definition}
+\newtheorem{rem}[thm]{Remark}
+\numberwithin{equation}{section}
+
+\newcommand{\homework}[6]{
+   \pagestyle{myheadings}
+   \thispagestyle{plain}
+   \newpage
+   \setcounter{page}{1}
+   \noindent
+   \begin{center}
+   \framebox{
+      \vbox{\vspace{2mm}
+    \hbox to 6.28in { {\bf CSE 211:~Discrete Mathematics \hfill {\small (#2)}} }
+       \vspace{6mm}
+       \hbox to 6.28in { {\Large \hfill #1  \hfill} }
+       \vspace{6mm}
+       \hbox to 6.28in { {\it Instructor: {\rm #3} \hfill Name: {\rm #5} \hfill Student Id: {\rm #6}} \hfill}
+       \hbox to 6.28in { {\it Assistant: #4  \hfill #6}}
+      \vspace{2mm}}
+   }
+   \end{center}
+   \markboth{#5 -- #1}{#5 -- #1}
+   \vspace*{4mm}
+}
+
+\newcommand{\problem}[2]{~\\\fbox{\textbf{Problem #1}}\hfill (#2 points)\newline\newline}
+\newcommand{\subproblem}[1]{~\newline\textbf{(#1)}}
+\newcommand{\D}{\mathcal{D}}
+\newcommand{\Hy}{\mathcal{H}}
+\newcommand{\VS}{\textrm{VS}}
+\newcommand{\solution}{~\newline\textbf{\textit{(Solution)}} }
+
+\newcommand{\bbF}{\mathbb{F}}
+\newcommand{\bbX}{\mathbb{X}}
+\newcommand{\bI}{\mathbf{I}}
+\newcommand{\bX}{\mathbf{X}}
+\newcommand{\bY}{\mathbf{Y}}
+\newcommand{\bepsilon}{\boldsymbol{\epsilon}}
+\newcommand{\balpha}{\boldsymbol{\alpha}}
+\newcommand{\bbeta}{\boldsymbol{\beta}}
+\newcommand{\0}{\mathbf{0}}
+
+
+\begin{document}
+\homework{Homework \#4}{Due: 17/01/21}{Dr. Zafeirakis Zafeirakopoulos}{Gizem S\"ung\"u}{}{}
+\textbf{Course Policy}: Read all the instructions below carefully before you start working on the assignment, and before you make a submission.
+\begin{itemize}
+	\item It is not a group homework. Do not share your answers to anyone in any circumstance. Any cheating means at least -100 for both sides. 
+	\item Do not take any information from Internet.
+	\item No late homework will be accepted. 
+	\item For any questions about the homework, send an email to gizemsungu@gtu.edu.tr
+	\item The homeworks (both latex and pdf files in a zip file) will be
+	submitted into the course page of Moodle.
+	\item The latex, pdf and zip files of the homeworks should be saved as
+	"Name\_Surname\_StudentId".$\{$tex, pdf, zip$\}$.
+	\item If the answers of the homeworks have only calculations without any formula or any explanation -when needed- will get zero.
+	\item Writing the homeworks on Latex is strongly suggested. However, hand-written paper is still accepted $\textbf{IFF}$ hand writing of the student is clear and understandable to read, and the paper is well-organized. Otherwise, the assistant cannot grade the student's homework.
+\end{itemize}
+
+\problem{1}{15+15=30}
+Consider the nonhomogeneous linear recurrence relation $a_n$ = 3$a_{n-1}$ + $2^n$ .\\
+\subproblem{a} Show that whether $a_n$ = $-2^{n+1}$ is a solution of the given recurrence relation or not. Show your work step by step.
+\solution\newline
+1) $a_n$ = $a_n^{(h)}$ + $a_n^{(p)}$
+\begin{flalign*}
+2) &a_n - 3a_{n-1} = 0 && 6) a_n - 3a_{n-1} = 2^n \quad \text{Guess}\quad a_n = A2^n &\\
+3) &r - 3 = 0 && 7) A2^n - 3A2^{n-1} = 2^n &\\
+4) &r = 3 && 8) A - \frac{3}{2}A = 1 \Rightarrow A = -2 &\\
+5) &a_n^{(h)} = \alpha(3)^n && 9) a_n^{(p)} = -2(2^n) = -2^{n+1} &
+\end{flalign*}
+10) $a_n$ = $\alpha(3)^n$ - $2^{n+1}$
+\subproblem{b} Find the solution with $a_0$ = 1.
+\solution
+\newline
+$a_0$ = $\alpha(-3)^0$ - $2^{0+1}$\newline
+1 = $\alpha$ - 2\newline
+$\alpha$ = 3\newline
+$a_n$ = $3(3)^n$ - $2^{n+1}$ = $3^{n+1}$ - $2^{n+1}$
+\newpage
+\problem{2}{35}
+Solve the recurrence relation f(n) = 4f(n-1) - 4f(n-2) + $n^2$ for f(0) = 2 and f(1) = 5. 
+\solution\newline
+$f(n)$ = $f(n)^{(h)}$ + $f(n)^{(p)}$\newline
+$f(n)$ - $4f(n-1)$ + $4f(n-2)$ = 0\newline
+$r^2$ - 4r + 4 = 0\newline
+$r_1$ = 2 \quad $r_2$ = 2\newline 
+$f(n)^{(h)}$ = $\alpha2^n$ + $\beta n2^n$\newline
+$f(n)$ - $4f(n-1)$ + $4f(n-2)$ = $n^2$ \quad guess $An^2 + Bn + C$\newline
+$A(n^2 - 8n + 12)$ + $B(n - 4)$ + $C$ = $n^2$\newline
+$n = 0;\quad 12A - 4B + C = 0$\newline
+$n = 1;\quad 5A - 3B + C = 1$\newline
+$n = 2;\quad 0A - 4B + C = 4$
+\begin{flalign*}
+    &\begin{bmatrix}
+    12 & -4 & 1 \\
+    5 & -3 & 1 \\
+    0 & -2 & 1
+    \end{bmatrix}^{\!\!-1}
+    \times
+    \begin{bmatrix}
+    0 \\
+    1 \\ 
+    4
+    \end{bmatrix}
+    =
+    \begin{bmatrix}
+    1 \\
+    8 \\
+    20
+    \end{bmatrix}
+    \Rightarrow
+    \begin{array}{l}
+    A = 1 \\
+    B = 8 \\
+    C = 20 
+    \end{array}&
+\end{flalign*}
+$f(n)^{(p)}$ = $n^2 + 8n + 20$\newline
+$f(n)$ = $f(n)^{(h)}$ + $f(n)^{(p)}$ $\Longrightarrow$ $f(n)$ = $\alpha2^n + \beta n2^n + n^2 + 8n + 20$\newline
+$f(0) = 2 = \alpha + 20 \Rightarrow \alpha = -18$\newline
+$f(1) = 5 = 2\beta - 7 \Rightarrow \beta = 6$\newline
+$f(n) = (-18)2^n + 6n2^n + n^2 + 8n + 20 \Longrightarrow f(n) = 2^n(6n - 18) + n^2 + 8n + 20$\newline
+\problem{3}{20+15 = 35}
+Consider the linear homogeneous recurrence relation $a_n$ = 2$a_{n-1}$ - 2$a_{n-2}$.
+\subproblem{a} Find the characteristic roots of the recurrence relation.
+\solution
+\newline
+$a_n$ - $2a_{n-1}$ + $2a_{n-2}$ = 0\newline
+$r^2$ - 2r + 2 = 0\newline
+$\Delta$ = $(-2)^2$ - $4\times1\times2$ = $-4$\newline
+$r_1$ = $\frac{-(-2) + \sqrt{-4}}{2}$ = $1 + i$\newline
+$r_2$ = $\frac{-(-2) - \sqrt{-4}}{2}$ = $1 - i$
+\subproblem{b} Find the solution of the recurrence relation with $a_0$ = 1 and $a_1$ = 2.
+\solution\newline
+$a_n$ = $\alpha(1 + i)^n$ + $\beta(1 - i)^n$\newline
+$a_0$ = 1 = $\alpha$ + $\beta$\newline
+$a_1$ = 2 = $\alpha(1 + i)$ + $\beta(1 - i)$\newline
+$\alpha$ = $\frac{1 - i}{2}$ \quad $\beta$ = $\frac{1 + i}{2}$\newline
+$a_n$ = $\frac{1 - i}{2}(1 + i)^n$ + $\frac{1 + i}{2}(1 - i)^n$
+\end{document} 
+
+
