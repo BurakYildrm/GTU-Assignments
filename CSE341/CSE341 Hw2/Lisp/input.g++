@@ -1,0 +1,9 @@
+;;This is comment
+(set x 25)
+(if (or (and (equal (+ 5 9) (* 2 7)) true) false)
+    (concat (append (+ 6 9) '(30 40)) '(6 7 8 9))
+)
+(if (or (and (equal (+ 5 9) (* 2 7)) false) false)
+    (concat (append (+ 6 9) '(30 40)) '(6 7 8 9))
+    (append x '(70))
+)
