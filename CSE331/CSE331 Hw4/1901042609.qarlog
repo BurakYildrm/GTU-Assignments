@@ -1,0 +1,80 @@
+Quartus II Archive log --	C:/Users/recep/Desktop/CSE331 Hw4/1901042609.qarlog
+
+Archive:	C:/Users/recep/Desktop/CSE331 Hw4/1901042609.qar
+Date:		Sun Jan 09 15:36:53 2022
+Quartus II 64-Bit		13.1.0 Build 162 10/23/2013 SJ Web Edition
+
+	=========== Files Selected: ===========
+C:/altera/13.1/CSE331_Hw4.qpf
+C:/altera/13.1/CSE331_Hw4.qsf
+C:/altera/13.1/db/CSE331_Hw4.db_info
+C:/altera/13.1/incremental_db/compiled_partitions/CSE331_Hw4.db_info
+C:/altera/13.1/simulation/modelsim/data.mem
+C:/altera/13.1/simulation/modelsim/instructions.mem
+C:/altera/13.1/simulation/modelsim/registers.mem
+C:/altera/13.1/workspace/CSE331 Hw4/MiniMIPS.v
+C:/altera/13.1/workspace/CSE331 Hw4/MiniMIPS_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_adder.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_adder_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_and.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_and_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_mux_2x1.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_mux_2x1_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_mux_8x1.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_mux_8x1_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_nor.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_nor_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_not.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_not_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_or.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_or_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_shift_left.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_shift_left_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_xor.v
+C:/altera/13.1/workspace/CSE331 Hw4/_32bit_xor_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_3bit_mux_2x1.v
+C:/altera/13.1/workspace/CSE331 Hw4/_3bit_mux_2x1_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_4bit_adder.v
+C:/altera/13.1/workspace/CSE331 Hw4/_4bit_adder_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_4bit_and.v
+C:/altera/13.1/workspace/CSE331 Hw4/_4bit_and_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_4bit_not.v
+C:/altera/13.1/workspace/CSE331 Hw4/_4bit_not_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_4bit_or.v
+C:/altera/13.1/workspace/CSE331 Hw4/_4bit_or_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/_4bit_xor.v
+C:/altera/13.1/workspace/CSE331 Hw4/_4bit_xor_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/alu.v
+C:/altera/13.1/workspace/CSE331 Hw4/alu_control.v
+C:/altera/13.1/workspace/CSE331 Hw4/alu_control_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/alu_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/data_memory.v
+C:/altera/13.1/workspace/CSE331 Hw4/data_memory_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/full_adder.v
+C:/altera/13.1/workspace/CSE331 Hw4/full_adder_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/half_adder.v
+C:/altera/13.1/workspace/CSE331 Hw4/half_adder_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/instruction_memory.v
+C:/altera/13.1/workspace/CSE331 Hw4/instruction_memory_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/main_control.v
+C:/altera/13.1/workspace/CSE331 Hw4/main_control_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/mux_2x1.v
+C:/altera/13.1/workspace/CSE331 Hw4/mux_4x1.v
+C:/altera/13.1/workspace/CSE331 Hw4/mux_8x1.v
+C:/altera/13.1/workspace/CSE331 Hw4/register_block.v
+C:/altera/13.1/workspace/CSE331 Hw4/register_block_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/sign_extend.v
+C:/altera/13.1/workspace/CSE331 Hw4/sign_extend_testbench.v
+C:/altera/13.1/workspace/CSE331 Hw4/zero_check.v
+C:/altera/13.1/workspace/CSE331 Hw4/zero_check_testbench.v
+c:/altera/13.1/quartus/bin64/assignment_defaults.qdf
+	======= Total: 63 files to archive =======
+
+	================ Status: ===============
+All files archived successfully.
+
+
+******* Archived project restoration attempt on Sun Jan 09 15:37:20 2022
+Source archive file:	C:/Users/recep/Desktop/CSE331 Hw4/1901042609.qar
+Archive was extracted into	C:/Users/recep/Desktop/CSE331 Hw4/1901042609_restored/
+		 - successfully.
