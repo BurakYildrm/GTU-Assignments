@@ -1,0 +1,370 @@
+Babası, akşama kadar pencerenin önünde onun gelmesini beklerdiNe kadar beklerdi? (akşama kadar)
+•
+Öfkesinden etrafındaki insanlara bağırıyormuşNiçin bağırıyormuş? (öfkesinden)
+•
+Tamam, ben ileri gideceğimMAKAL4. ÜNİTNereye gideceğim? (ileri)
+Uyarı: Yön bildiren kelimeler çekim eki alarak kullanılırsa zarf tümleci değil, dolaylı 
+tümleç ya da belirtili nesne olurÖrnek: • Elindeki valizleri aşağı bıraktı. (zarf tümleci)
+•
+Elindeki valizleri aşağıya bıraktı. (dolaylı tümleç)
+•
+Yardımcı personele bir güzel aşağıyı temizletti. (belirtili nesne)
+Çözümlü Örnek SorAşağıdaki cümlelerin hangisinde zarf tümleci kullanılmıştır?
+A) O günden sonra ben görmedim onlarıB) Konuyu nasıl anlatacağına karar verdiC) Güzelim resimleri çamura düşürdüD) Aradığın her şeyi kitaplıkta bulabilirsin. 
+ÇözüO günden sonra  /  görmedim / onları   zarf tümlec            yüklem     belirtili nesnKonuyu nasıl anlatacağına / karar verdi  dolaylı tümleç 
+        yüklem 
+Güzelim resimleri /  çamura  /  düşürdübelirtili nesne     dolaylı       yükle    tümleAradığın her şeyi /  kitaplıkta / bulabilirsin belirtili nesne      dolaylı            yükle      tümleç 
+Cevap:  Çözümlü Örnek Sor “Bütün öğrenciler, bir yıl boyunca bilim olimpiyatlarına hazırlandılar.” cümlesinin 
+dolaylı tümleci aşağıdakilerden hangisidir?
+A) Bütün öğrencileB) Bir yıC) Bir yıl boyuncD) Bilim olimpiyatlarınMAKAL4. ÜNİTÇözüBütün öğrenciler, / bir yıl boyunca / bilim olimpiyatlarına / hazırlandılar   özne  
+     zarf tümleci  
+dolaylı tümleç 
+yükleCevap: 1. UygulamAşağıdaki cümlelerin ögelerini bulunuzaTeknolojinin ilerlemesi, insan hayatını hem olumlu hem de olumsuz yönde etkilemiştiYüklem: Özne: Belirtili nesne: Zarf tümleci: bTelevizyon, bilgisayar ve internet bireyler arasındaki sıcak iletişime engel olmaktadırYüklem: Özne: Dolaylı tümleç: cKendisini yalnız hisseden birçok kişi, internette bulunan arkadaşlık sitelerine yönelmektediYüklem: ................................ Özne: ......... Dolaylı tümleç: ç.  Gelişen teknoloji, bayramları ve bayram ziyaretlerini teknolojik alana taşımıştırYüklem: Özne: Belirtili nesne: Dolaylı tümleç: MAKAL4. ÜNİTYAZMA. Yazma Tür ve Tekniklerini TanımAraştırmaya Dayalı Metin YazmAraştırma konusu belirlenir. Kütüphane, genel ağ, basılı yayın vb. kaynaklar taranara konu sınırlandırılır. 
+Kaynak Taraması: Araştırmaya dayalı metin yazma sürecinin ilk aşaması konuyla 
+ilgili bilgilerin kütüphane veya genel ağdan taranmasıdır. Araştırma konusu 
+sınırlandırılır ve kaynak taraması buna göre yapılırMakale türü hakkında yapılacak bir araştırmada ilk olarak makale konusunda başvurulaca kaynaklar genel ağları araştırılır ve kaynak taraması buna göre yapılır. Genel 
+ağdan tarama yapılırken “Makale nedir?”, “makale türünün özellikleri”, “makale 
+türünün Türk ve dünya edebiyatındaki gelişimi” veya “makale çeşitleri” gibi ifadeler 
+arama motoruna yazılarak sorgulanır. 
+Bu aşamada dikkat edilmesi geren en önemli nokta genel ağdaki bilgilerin güvenilirliğin kontrol etmektir. Aynı konuda birbirinin tekrarı olan veya alanında uzman olmaya kişilerin genel ağ ortamına yüklediği bilgiler her zaman güvenilir olmayabilir. 
+Bu nedenle genel ağdaki sayfalarda “Kaynaklar” bölümü olmayan veya herhangi bir 
+kaynağa dayandırılmayan bilgiler şüpheyle karşılanmalıdır. Yazı oluşturulurken 
+edinilen bilgilerin başka kaynaklarla doğrulanması ve desteklenmelidir. 
+ Kütüphane araştırması yapılacağı zaman genel ağ  üzerinden kütüphanelerin kataloglar önceden taranır, konuyla ilgili kitaplar listelenir. Öncelikle genel bilgi veren 
+ansiklopedilere ve onların atıfta bulunduğu kaynaklara ve güncel yayınlara bakılır.  
+Kaynak Gösterme: Kaynaklar ya metin içinde ya da metin sonunda verilirAlıntılar eğer doğrudan aktarılıyorsa tırnak içerisinde gösterilir. Bu yöntemde, alınt yapılan ifadenin sonuna numara yazılır. Sayfa sonunda ana metinden ayıran bir çizgi 
+altında verilir. Metinde kullanılan numara buraya yazılarak kaynağın künyesi belirtilir. 
+Dipnotlar numara sırasına göre her sayfanın sonunda devam ettirilir. Aynı kaynak bir 
+sonraki dipnotta tekrar edilecekse “adı geçen eser”, ifadesinin ilk harfleri (age.) kullanılara dipnota sadece sayfa numarası yazılır. “Yazarın adı-soyadı, eserin adı, basıldığı 
+yayınevinin adı, basıldığı şehir, basım yılı, alıntı yapılan sayfa numarası”.  
+ÖrneNiyazi Karasar, Bilimsel Araştırma Yöntemi: Kavramlar, İlkeler, Teknikler, 5. bs. 
+(Ankara: 3A Eğitim Danışmanlık, 1994), 3Eserin sonunda kaynakça hazırlanır ve yararlanılan kaynaklar verilir. Yazarın 
+soyadı, adı, eserin adı, yayınevi, basım yeri ve tarihiMAKAL4. ÜNİTÖrneKARAKOÇ, Abdurrahim, Vur Emri, Ocak Yayınları, Ankara, 1990.  
+Yaş Türkistan’da, Azimzade imzasıyla çıkan bir makalede bu roman ve yazarıyla ilgil; “...Romanın sonunda Atabek bir rüya görür. Rüyasında bahçelerine bir inek girip, çiçekler ezmektedir. Atabek eline bir değnek alıp, ineğe doğru yürümekte ama ona yetişemeyip, 
+ter içinde uyanmaktadır. İleriyi görebilen yazarımız Türkistan’a doğru yaklaşan tehlikeyi 
+sezmiş; iç ve dış düşmanları göz önünde tutmuştur”.4 Buradan Abdullah Kadiri’nin konu 
+seçiminde ve işleyişinde Rus mehfumunu bilhassa göz önünde bulundurduğu sonucunu 
+çıkarabiliriz. 
+“Ötken Künler” romanındaki milletin içinde bulunduğu tefrika ortamını tenkit etmi, millî istiklal için mücadele fikrini bedii bir üslûpla işlemiş, roman kahramanlarıyla 
+Özbeklere ve dolayısıyla Türklere has faziletleri diriltmeye çalışmıştır4Azimzade, Ötken Künlerimiz, Yaş Türkistan, No.18, Paris, 1931, s. 21Bu parçada kaynak, sayfa sonunda dipnot olarak verilmiştir. Aynı kaynakça metin 
+sonunda da “Azimzade. “Ötken Künlerimiz”, Yaş Türkistan, No.18, Paris, 1931.” 
+şeklinde verilmiştirB. Yazma Tür ve Tekniklerini Uygulam Yukarıda verilen açıklamalar doğrultusunda ve makale türü ile ilgili öğrendiklerinizde hareketle araştırmaya dayalı bir metin yazınızSÖZLÜ İLETİŞİA. Sözlü İletişim Tür ve Tekniklerini TanımMünazara YapmBiçim yönünden açık oturuma benzeyen bir tartışma biçimidir. Daha çok okullarda 
+kullanılan münazarada ortaya atılan bir tez olumlu ve olumsuz yönleriyle savunulur. Münazar yolu ile öğrencilerin araştırma, konuşma ve eleştiri becerilerinin geliştirilmesine 
+çalışılır. Münazarada önemli olan doğruyu ortaya çıkarmak değil, tezini en iyi şekilde savunmaktı. Bir tezi her iki yönden görmeye, düşünceyi düşünceyle çürütmeye yönlendirir 
+münazara.  
+Münazarada iki taraf vardır ve bunlar ekipler oluşturulduktan sonra birer temsilci 
+seçer. Temsilciler bir araya gelerek münazaranın konusunu, tarihini, nerede yapılacağını, 
+jüri üyelerinin kimler olacağını kararlaştırırlar. Ayrıca, konuşma sürelerini belirlerMünazarada öğrencilerin ders kitapları dışında kaynaklara ulaşması onları, ele alınan 
+MAKAL4. ÜNİTkonu doğrultusunda değişik yorumlarla kullanabilmesi gerekmektedirMünazaranın  sonunda karşı tarafa soru yöneltilir. 
+Münazarada Jürinin GörevlerPuanlamak suretiyle münazarayı değerlendirecek olan jürinin tarafsız olması gerekir. 
+Jüri daha önce belirlenen her bir nitelik için 100 puan üzerinden değerlendirme yapar. 
+Jüri, bir başkan seçer; konuşmaları ve puanlamanın nasıl puanlayacağını münazara ekibin bildirir. Jüri değerlendirmesini aşağıdaki noktalara göre yapar:
+•
+Münazaradaki konuşmaların•
+Ekiplerin konuya yaklaşımların•
+Konuşmacıların hazırlıkların•
+Konuşma yöntemlerin•
+Dinleyicileri etkileyip etkilemediklerin•
+Konuşmacıların anlatım özelliklerin•
+İnandırma ve savunma güçlerin•
+Jest ve mimikler•
+Diksiyonlarına (sesi kullanmalarına, söyleyiş sanatlarına)
+B. Sözlü İletişim Tür ve Tekniklerini UygulamKitle iletişim araçlarından bir münazara izleyiniz ya da çevrenizde düzenlenen bimünazaraya imkânlarınız ölçüsünde katılınızÖZEMakale: Herhangi bir konuda bilgi vermek, bir gerçeği ortaya koymak, bir tezi kanıtlama veya bir düşünceyi savunmak amacıyla yazılan ve temel ögesi fikir olan yazılara 
+makale denir. Temel unsuru düşünce olan makaleler öğretici yazılardır. Bu nedenle yazar 
+tutarlı, tarafsız, bilimsel bir üslup; açık, anlaşılır, ciddi bir dil kullanır. Herhangi bir konudak görüşlerini, belli kanıtlar, belgeler, inandırıcı veriler kullanarak anlatmaya çalışır, 
+böylece okuyucuyu bilgilendirmeyi amaçlar. Makaleler giriş, gelişme ve sonuç bölümlerinde oluşan bir plan dâhilinde yazılırTürk edebiyatında ilk makale Tanzimat Dönemi’nde Şinasi tarafından Tercüman-ı 
+Ahval’de yayımlanan “Tercüman-ı Ahval Mukaddimesi”dir. Gerek Tanzimat Dönemi’nd gerekse Servetifünun ve Fecriati Dönemi’nde yazılan makaleler, eleştiri-polemik karışım ürünler olduğundan bugünkü makale türünden uzaktır. Bu tür bizde ancak Cumhuriye Dönemi’nde çağdaş bir kimlik kazanmıştırMAKAL4. ÜNİT1Dünyada yaşamakta olan tüm müzik türleri, hayat bulduğu milletlerin, toplumların,
+toplulukların yaşayış biçimleri, değer yargıları, inançları ve ihtiyaçları üzerine kurulmuştu. Bu açıdan bakıldığında ülkemizde icra edilen müzik türlerinin, toplumsal yapımızldirekt ya da dolaylı bir ilişkisi olduğu, kişisel ve toplumsal etkilere sahip olduğu açıktırGeleneksel müziklerimizin oluşumundan günümüze geçirdiği süreç içerisinde, toplumsa yapımızın önemli etkileri görülebilmektedir. Bu etkileşim sürecinde kimi zaman toplumsa yapımız, kimi zaman kültürel yapımız, kimi zaman da müzik türlerimiz belirleyicrol üstlenmektedir. Türk toplum yapısı, sahip olduğu köklü özellikler ve zamanla gelişeve değişen değerleriyle sanatsal ve kültürel anlamda yaşanan gelişmelerin odak noktasınoluşturmuşturBu parçadan aşağıdakilerden hangisine ulaşılamaz?
+A) Ülkemizde üretilen müzikler, toplumsal yapıyla doğrudan ilgilidirB) Dünyada yapılan müzikler, içinden çıktığı kültürü yansıtırC) Toplumların inanç ve hayat tarzları müzik türlerinde (eserlerinde) görülürD) Müzik alanında oluşturulan eserler kültürün en belirleyici ögesidir2Aşağıdaki parçalardan hangisi bir makaleden alınmış olabilir?
+A) Sümerlere göre kurulan medeniyetin ve gelişimin tek kaynağı dinî inançlardırBir Sümerli, ancak -dinî anlayışın tam merkezinde bulunan- tanrılarıihtiyaçlarını giderip onlara hizmet ettiği ve tanrıların bundan memnun kaldığölçüde değer bulur ve saygınlık kazanırB) Çocuk sayılabilecek kadar küçük yaştaki bir genç, değerli taşlara ilgi duyuyorduBu yüzden mücevherler ustası olmaya karar verdi. Bu mesleği yapacaksam iyi bimücevher ustası olmalıyım, diye düşünerek ülkedeki en iyi mücevher ustasını aramay başladı. Sonunda buldu; yanına vardı, bir süre bekledikten sonra usta tarafında kabul edildiC) Dünya, Moğolistan’dan gelen deprem haberiyle bir anda deprem hattında olmaya Moğolistan’ı konuşmaya başladı. Moğolistan’ın güneyinde dün gece saa04.00 sularında meydana gelen zelzelede ilk açıklanan veriler 16 kişinin yaşamınyitirdiği yönündeD) Onu yakından tanıyan bütün bir nesil edebiyatçıları bir yere gelip duyduklarını vbildiklerini yazsalar ve bir yere toplasalar muhakkak ki kocaman bir kitap dolarBu fıkraların dilden dile dolaşan pek meşhurları da vardır. Ben yalnız, Ömer’dedinlediğim bir tanesini anlattımÖLÇME DEĞERLENDİRMMAKAL4. ÜNİT3Ülke ekonomilerinde uygulanan ekonomi politikaları yoluyla giderilemeyen işsizliğ“doğal işsizlik” denilmektedir. M. Friedman tarafından 1986 yılında ortaya atılan bikavramdır. Ekonomiler bu tür işsizliği önlemeye çalışmaları durumunda enflasyoolgusuyla mücadele etmek durumunda kalacaklardır. Bir başka deyişle, enflasyooranında yükselme yaratmadan sürdürülebilen en düşük işsizlik oranına “doğal işsizli” denilmektedir. Doğal işsizlik oranının hesaplanmasında belirli bir yöntem bulunmamaktadıBu parçada aşağıdaki anlatım biçimlerinden hangisi kullanılmıştır?
+A) TartışmB) BetimlemC) AçıklamD) Öykülem4Havada serbest bırakılan her cisim yere düşer. Bu düşmeye sebep olan da yer çekimkuvvetinden başka bir şey değildir. Cisimlerin ağırlığı ya da hafifliği, aslında yerin onlar daha büyük veya daha az bir kuvvetle çekmesiyle ilgilidir. Her cismin diğer cisimle üzerinde belirli bir çekim kuvveti vardır. Bu çekim kuvveti, söz konusu cisimlerikitlesine ve birbirine olan mesafesine bağlıdır. Cisimler ağırlaştıkça ve aralarındakmesafe azaldıkça birbirleri üzerindeki çekim kuvveti büyürBu parça için aşağıdakilerden hangisi söylenemez?
+A) Bu parça çok anlamlılığa kapalıdırB) Süslü ve kapalı bir dil kullanılmıştırC) Dilin göndergesel işlevi öne çıkarılmıştırD) Terimlere çokça yer verilmiştir5“Bilimsel metinlerde dil, -------- işlevde kullanılır.” cümlesinde boş bırakılan yeraşağıdakilerden hangisi getirilmelidir?
+A) şiirseB) alıcıyı harekete geçirmC) Kanalı kontrol etmD) göndergeseMAKAL4. ÜNİT6Aşağıdakilerden hangisi bilimsel metinlerin özelliklerinden biridir?
+A) Alanında uzman kişilerce kaleme alınırB) Öyküleyici anlatım biçimi kullanılırC) Okuyucunun yorumuna göre anlam kazanırD) Kişisel duygu ve düşünce ön plandadır7Aşağıdaki ifadelerden hangisi bilimsel yazıları anlatmak için kullanılabilir?
+A) Kişisel düşüncB) NesnelliC) Yorum yapmD)  Duygusal yaklaşı8Aşağıdakilerden hangisi münazarada jürinin görevleri arasında yoktur?
+A) Ekiplerin konuya yaklaşımlarını değerlendirmeB) Değerlendirirken belirli kriterleri uygulamaC) Konuşmacıların anlatım özelliklerine müdahale etmeD) Konuşma yöntemlerini duyurmaMAKAL4. ÜNİT9Aşağıdaki cümlelerin hangisinde “okul” kelimesi dolaylı tümleç olarak kullanılmıştı?
+A) Bizim okul her gün temizlenirB) Bugün okulu aramam gerekiyorC) Okula öğleden sonra gidiyormuşD) Okul takımımız maçı kazandı10. Aşağıdaki cümlelerin hangisinde bir yazım yanlışı yoktur?
+A) Bu tepe, kenar mahallemize biraz yüksekden bakardıB) Mektep değilse bile mektebin çevresi benim için yeniydiC) Okulun önünde ki avlu taş döşeli ve demir kapılıydıD) Evlerin bacalarından tüten dumanları görüyormusun?
+MAKAL4. ÜNİTCEVAP ANAHTAR1. UygulamaTeknolojinin ilerlemesi, insan hayatını hem olumlu hem de olumsuz yönde etkilemiştirYüklem: etkilemiştiÖzne: teknolojinin ilerlemesBelirtili nesne:  insan hayatınZarf tümleci: hem olumlu hem de olumsuz yöndbTelevizyon, bilgisayar ve internet bireyler arasındaki sıcak iletişime engel olmaktadırYüklem: engel olmaktadıÖzne: Televizyon, bilgisayar ve interneDolaylı tümleci: bireyler arasındaki sıcak iletişimcKendisini yalnız hisseden birçok kişi, internette bulunan arkadaşlık sitelerine yönelmektediYüklem: yönelmektediÖzne: Kendisini yalnız hisseden birçok kişDolaylı tümleci: internette bulunan arkadaşlık sitelerinç. Gelişen teknoloji, bayramları ve ziyaretleri teknolojik alana taşımıştırYüklem: taşımıştıÖzne: Gelişen teknolojBelirtili nesne: bayramları ve ziyaretlerDolaylı tümleci: teknolojik alan4. Ünite Ölçme ve Değerlendirm5. ÜNİTSOHBET / FIKRSohbeCümle Dışı UnsuFıkrAra CümlGünceAra SöNELER ÖĞRENECEĞİZ? 
+Bu üniteyi tamamladığınızda;
+•
+Cumhuriyet öncesi ve sonrası dönemlerde yazılmısohbetlerin özelliklerini,
+•
+Cumhuriyet öncesi ve sonrası dönemlerde yazılmış fıkralarıözelliklerini,
+•
+Türk toplumunda sohbet kültürünü,
+•
+Cümlenin ögelerini,
+•
+Metinlerden hareketle imla kurallarını ve noktalama işaretlerini,
+•
+Özelliklerine uygun güncel bir konuda sohbet veya fıkra yazmayı,
+•
+“Dostluk” konulu bir sohbet gerçekleştirmeyi öğreneceksinizANAHTAR KELİMELESOHBET-FIKR5. ÜNİTOKUM1. Metin Hazırlı•
+Sohbet, söyleşi, hoşsohbet kelimeleri sizde neleri çağrıştırıyor?
+ALTMIŞ BİRİNCİ MEKTUYağmurlara bereket versin! Sağanak sağanak, 
+şiddetli şiddetli dökülen yağmur damlaları yokuş 
+olan yerlerde iki taraflı birer sel meydana getirdi de 
+köşede bucakta, ortada top top veya perakende duran 
+çer çöp ve pisliği silip süpürdü. Bu semavî bağış hem 
+temizlik memurlarının ve hem de terkos kumpanyasını yüzünü güldürdü. Biri arabalarla taşımakla bitmeye birikmiş süprüntüden kurtuldu. Diğeri güya 
+tükenmesine birkaç gün kalmış gibi alışveriş yerlerini 
+sulamakta kullanacağı suları kazandı. Oldukça da 
+alışveriş kaynadı. Havanın gözü yaşarınca, çeneleri 
+açılan şemsiye tüccarları ortalığa yayılarak kimi şemsiyesi görürlerse onun kulağı dibinde bağırmak suretiyl iş gördüler. Ya arabacılar! Hiç onlar unutulur mu? Böyle havalarda gün onlarındır. 
+Hem çalakırbaç, hem de iki kat ücret! Öyle ya! Araba geliyor. Sen kendini gözet! Bir yana 
+çekil! Elbette çamur atlarCanın isterse bin! Yağmur fırlarken, fiyat neden fırlamasın? Yağmur bereketlidir, 
+derler. Sebze cinsinden şeyler koparılmaz. Kabak yok, fasulye pahalı, çileğe uğurlar olsu, kiraz kurtlandı, vişneler çatladı, armutlar beneklendi, enginarlar kartlaştı, baklalar 
+çürüdü. Hep bu yağmur esnafa bir taze gurur verdi. Ha hava, ha piyasa! İkisi de bir. Hata 
+bizde, borsa oyunlarına hava demezler mi? İşte tıpkısı!
+Sucular da kâr edelim derken rüya görmüşe döndüler. Hem suları bulandı hem de 
+birdenbire sıcak bastığı için limonatayı buz ve karla soğutmaya tekrar mecbur oldular. 
+Ne olduysa:
+—  Haniya buzdan içen, diye bağıranlar oldu. Boyacılara yeni bir faaliyet geldi. Cümlesi 
+alesta! Elbette nezle olanlar çoğaldıHekimler ve eczacılara da kâr göründü. Evlerde sarnıcı olanlarla yağmur suyu küpü 
+bulunanlar mutlaka çamaşıra hazırlanmışlardır. Tatlı su bedava, oh! Gıcır da gıcır! Tahta 
+sileceklere ne mutlu! Hiç olmazsa insan tahtakurusuyla pireden bir gecelik olsun azade 
+kalır. Çayırlara, çimenlere tazelik gelir. Akan evlerde aktarma lüzumunu hissedenler gerçi 
+biraz surat ekşitirler fakat birkaç lehimci fukarasıyla kiremitçilerin yüzü gülerKasaplar da şu serinlikten hazzetmişlerdir. Benim gibi seyyar olan muhabirlerin hâlin sormayın. Masraf yerinde, bütçe aştı taştı bile! Bir yerlerde dur otur yok. 
+Ahmet Rasim, Şehir Mektupları 
+SOHBET-FIKR5. ÜNİTMetinde Geçen Kelime ve Kelime Gruplarhazzetmek: Hoşlanmakkırbaç: Tek parça deri veya uzun esnek bir değneğin ucuna sırım bağlanarak yapılmış 
+vurma aracısemavi: Gökle ilgili, göğe ilişkinBilgi KutusCUMHURİYET ÖNCESİ DÖNEMDE SOHBEBir konuda derinleşmeden bilgi veren, yazarın kendi düşünce ve görüşlerini okurlara 
+aktarmaya yarayan, konuşma tarzındaki yazılara sohbet denir. Yazar, karşılıklı konuşma 
+havası içinde düşüncesini okuyucuları sıkmadan, ayrıntılara girmeden anlatırGiriş, gelişme ve sonuç bölümlerinden meydana gelen sohbet yazıları; bir düşünceyi 
+açıklayan, geliştiren metin türlerindendir. Okurların ilgisini çeken günlük olayları konu 
+edinir. Makaleden üslup yönüyle ayrılan sohbet yazılarında senli benli bir anlatım yolu 
+seçilir. Okuyucuya verilmek istenen bilgi ve düşünceler kısa yoldan, derli toplu; yeri geldikç konuyla ilgili fıkra, halk deyimi, atasözü, vecizeler kullanılarak verilir. Okura verilme istenen düşüncenin işlenmesini kolaylaştırmak için konu ile ilgili sorular sorulup 
+cevaplandırılır. İyi bir dinleyici olmak, iyi bir sohbet yazmak için önemlidir.  Bu dönemde 
+Ahmet Rasim “Ramazan Sohbetleri” adlı eseriyle bu türe katkı sağlamıştırMetni Anlama ve Çözümlem1Metinde geçen, anlamını bilmediğiniz kelime ve kelime gruplarının anlamlarını metni bağlamından hareketle tespit ediniz. Tahminlerinizi sözlüklerden kontrol ediniz2“Altmış Birinci Mektup” metninin ana düşüncesini bulunuz3Metinde hangi anlatım biçimleri kullanılmıştır?
+4Metnin konusunu bularak metin ile hedef kitlesi arasındaki ilişkiyi söyleyiniz5Okuduğunuz metinden metnin, yazıldığı dönemin gerçekliğini yansıtan unsurları belirleyiniÇözümlü Örnek SorAşağıdakilerden hangisi sohbet türü için söylenemez?
+A) Giriş, gelişme ve sonuç bölümlerinden meydana gelirB) Üslup yönüyle makaleye benzerC) Bir düşünceyi açıklayan, geliştiren bir metin türüdürD) Okurların ilgisini çeken günlük olaylar işlenirSOHBET-FIKR5. ÜNİTÇözüMakaleden üslup yönüyle ayrılır. Çünkü sohbette senli benli bir anlatım yolu tercih 
+edilir. Makalede ise daha ciddi bir üslup kullanılır Cevap: BiyografAhmet Rasim (1865-1932)
+Hikâye, roman, anı, fıkra, inceleme ve araştırma alanlarında yüzü aşkın eser verdi. 
+Şiirleri, gazete ve dergilerde kalmış yazıları da vardır. Roman adıyla basılan eserleri, genellikl birer uzun hikâyedir. Yaşamdan alınan konular, romantik bir tutumla işlenmiştir. 
+Asıl başarısını fıkra, söyleşi, anı türlerindeki eserlerinde gösterdi. Çocukluk yıllarından 
+başlayarak kaleme aldığı anılarında ve fıkralarında renkli, canlı bir anlatımla bir dönemin 
+panoramasını verdi; toplumsal yaşayışın çeşitli yönlerini yansıttıEserleri: İlk Sevgi, Afife, Asker Oğlu, Fuhş-i Atik (hikâye); Muharrir Bu Ya, Falaka, 
+Ramazan Sohbetleri, Şehir Mektupları, Tarih ve Muharrir, Romanya Mektupları (düzyaz)SOHBET-FIKR5. ÜNİT2. Metin Hazırlı•
+Sizce faydalı iş yapmak nedir? Nasıl yapılır?
+FAYDALI BİR İŞ GÖRMEK ZEVKBir iş görme, bir eser vücuda getirme zevki yalnız münevverlere, sanatkârlara mahsus 
+zevklerden değildir. Bizim en iptidai zannettiğimiz insanlar bile bir eser vücuda getirmeni zevkiyle mest olmasını bilirler. Zaten insanı yeryüzündeki öbür mahlûklardan ayıran 
+başlıca fark da galiba budur. Kaldı ki hayvanlar bile insanlarla beraber yaşamaya razı olduklar andan itibaren ancak iş görmeye yanaştıkları nispette insanların gözüne girebilmişlerdi. Zamanımızda büyük şehirlerde süs hayvanı hâline gelen kedilerle köpekler bile 
+fare tuttukları ve bekçilik ettikleri için sevilirlerBilmem size de öyle gelir mi? Evlerde, odaların için beslenen, kucaklarda dolaşan kedilerl köpeklerin suratlarında pek mahzun bir hâl vardır. Ne yapacaklarını bilmedikleri 
+için yüzünüze âdeta ağlar gibi bakarlar. Onların faydasız, lüzumsuz olduklarını hissettiklerin, bir iş görmeden oturdukları için kederlendiklerine hükmetmek herhâlde yanlış 
+olmayacaktır. Bir de tarlayı sürüp veya akşama kadar döğen çevirip de bir kenarda işini 
+görmüş, vazifesini bitirmiş, ortaya bir eser koymuş olmanın huzuruyla geviş getiren öküzü o keyifli, insanın yüzüne “Sanki siz bugün ne yaptınız?” diyen bir tavırla bakmasını 
+hatırlayınız. Böyle bir manzara karşısında vazifesini yerine getirmiş öküze karşı bir saygı 
+duygusu beslememenin imkânı var mıdır? Yokuşlarda, arkalarına bağlanmış yüklü arabalar var kuvvetlerini harcayarak düze çıkarmaya çalışan atları bilmem siz de benim gibi 
+hayranlıkla seyreder misiniz? Onları seyrederken içimde, arabanın bir ucuna dayanarak 
+onlara yardım etmek arzuları uyanır. Çünkü bir iş başarmak uğrunda bu derece gönülden 
+gayret sarf etmek hayran olmaya değer bir meziyettir. Atların ne düşündüklerini tabii 
+SOHBET-FIKR5. ÜNİTbilmiyoruz fakat onların arabalarını yokuşlardan düzlüklere çıkardıkları zaman keyifli 
+keyifli bir koşuşları vardır ki, yalnız bu hâllerine bakıp onların da, tıpkı insanlar gibi, zor 
+bir işi başarmaktan zevk duyduklarına hükmetmek yerinde olurFakat insanların iş görmek bakımından daha üstün olan tarafları, gördükleri işin 
+mutlaka faydalı olması hususunda besledikleri samimi arzudur. Hayvan bilmez, ona, hiçbi faydası olmayan işler uğrunda tükenmez bir gayret sarf ettirmek mümkündür.  Susuz 
+bir bostan kuyusunun dolabını bir at ömür boyunca, bir iş görüyor sanarak çevirebilir. 
+Fakat insanlar yaptıkları işlerin faydalı olmasını, bir şeye yaramasını isterler(...)
+Sabah, akşam işinize gidip gelirken yollarda bir binayı elbirliğiyle yükseltmeye çalışa birçok inşaat işçisi görürsünüz. Bütün bu insanlar faydalı bir iş yaptıkları kadar, 
+bir eser vücuda getirmeye katıldıkları, yapılan çorbada tuzları olduğu için mesutturlar. 
+İnşaat biter, bina meydana çıkar, işçiler hesaplarını görüp başka bir inşaatta vazife alırlar. 
+Fakat fırsat düşüp evvelce yapmış oldukları binanın önünden geçerlerken orada bir duvar 
+örmüş, bir sıva yapmış veya sadece temel toprağı bile çıkarmış olsalar “Bu binayı ben yaptı.” diye iftihar ederler. İşin garip olan tarafı da bir binanın hakikaten kimin tarafından 
+yapılmış olduğunun bilinmemesidir. Mal sahibi onun kendi eseri olduğuna inanır. Mühendi veya mimar “Ben yaptım.” der. Hâlbuki duvarlarını yükseltmiş olan duvarcılar, 
+betonlarını dökmüş olan beton işçileri, döşemelerini çekmiş, kapılarını, çerçevelerini takmı olan marangozlar, damını örtmüş olan çatı işçileri binaya göğüslerini gere gere kendi 
+eserleri olarak bakmaktadırlar. 
+Bir binaya sadece kırk, elli çivi çakmış olan adamın bile kendini o binayı vücuda getirenle arasında saymakta şüphesiz hakkı vardırZaten işin garip olduğu kadar güzel olan tarafı da bu değil midir?
+(...)
+Pekâlâ hatırlayacaksınız: İkinci Dünya Harbi patlamadan önce Almanya’da baş göstere işsizliğe bir çare olmak üzere birtakım boş gezen adamları toplayıp onlara güya iş 
+gördürüyormuş hissini vermek için dibi delik fıçılarla su taşıtmışlardı. Geçenlerde bir 
+mecmuada bu hizmete katılmış adamlardan birinin hatıralarını okudum. Sabahtan akşam kadar dibi delik fıçıya su taşımış olan o adam: “Hayatımda bundan büyük bir işkenc tasavvur edemiyorum. Faydasız ve dolayısıyla lüzumsuz bir insan hâline geldiğimi ilk 
+defa o günlerde hissettim ve üç gün çalıştıktan sonra aç kalmayı göze alarak delik fıçıya 
+su doldurmak teklifini kesin surette reddettim.” diyordu. İnsanın canı belki boş oturmakta sıkılır, fakat bütün hayatında çalıştığı hâlde bir tek faydalı eser vücuda getirememiş 
+adamın sıkıntısı herhâlde boş oturmuş adamın sıkıntısından bin kere daha ağırdır. Eğer 
+gündelik hayatımızda akşamüstü yorgun argın evimize döndüğümüz zaman biraz olsun 
+gülebiliyor, neşelenebiliyorsak bu neşenin tohumlarını o günkü çalışmalarımızda faydal bir iş gördüğümüze inanmamızda aramalıyız. Faydalı bir hizmet bütün meşakkatleri 
+unutturur. İnsan kendi kendine kalıp da o müthiş muhasebeye daldığı zaman ancak, “Ben 
+SOHBET-FIKR5. ÜNİTde memleketimde, işimde, evimde faydalı olabiliyorum, bu toplulukta beni m de bir 
+vazifem var.” diyerek teselli bulabilirAllah kimseyi böyle bir teselliden mahrum bırakmasın!
+Şevket Rado, Eşref SaaMetinde Geçen Kelime ve Kelime Gruplarhükmetmek: Egemenliği altında bulundurmak.  
+iptidai: İlkel. 
+mahlûk: Yaratık. 
+mahzun: Üzgünmest olmak: Kendinden geçmek, çok mutlu olmak. 
+meşakkat: GüçlükBilgi KutusCUMHURİYET DÖNEMİ’NDE SOHBESohbet türü gazeteyle birlikte gelişmiştir. İlk örnekleri Tanzimat Dönemi’nde verilen 
+sohbet Cumhuriyet Dönemi’nde gelişme gösterirTürk edebiyatında diğer türlere kıyasla sohbet türünde daha az eser verilmiştir. Bazı 
+yazarlarımız sohbet türündeki yazılarını kitaplaştırmıştır. Suut Kemal Yetkin (Edebiyat 
+Söyleşileri), Şevket Rado (Eşref Saat), Melih Cevdet Anday (Dilimiz Üzerine Konuşmala) ve Nurullah Ataç (Dil Üzerine Söyleşiler) gibi yazarlar bu türde eserler vermiştirMetni Anlama ve Çözümlem1Yazara göre faydalı iş nedir? Para karşılığı da olsa kişi neden faydasız işleri yapmaktakaçınmaktadır?
+2“Faydalı Bir İş Görmek Zevki” metninin ana düşüncesini ve yardımcı düşüncelerinbelirleyiniz3Metnin konusunu ve yazılış amacını söyleyiniz4Okuduğunuz sohbet yazısını “Altmış Birinci Mektup” yazısıyla karşılaştırarak sohbetürünün ortaya çıkışı ve tarihsel dönemle ilişkisini belirleyiniz5Metinde kullanılan düşünceyi geliştirme yollarını bularak bunların işlevlerini belirleyiniÇözümlü Örnek SorAşağıdakilerden hangisi Cumhuriyet Dönemi sohbet yazarlarından biri değildir?
+A) Melih CevdeB) Nurullah AtaC) Ahmet RasiD) Şevket RadSOHBET-FIKR5. ÜNİTÇözüAhmet Rasim, Cumhuriyet öncesi sohbet türünde eser veren bir yazardır. 
+Cevap: BiyografŞevket Rado (1913-1988)
+Dergilerde yayımlanan söyleşileriyle tanındı. Söyleşileri, genellikle gençlere doğru 
+yolu gösteren, yaşama sevinci uyandıran, karşılaşılabilecek zorlukları iyimser bir görüşle 
+yorumlayan özellikler taşır. Oldukça yalın bir dili vardır. 
+Eserler: Şiirler (şiir); Eşref Saat, Ümit Dünyası, Hayat Böyledir, Aile Sohbetleri (söyleş); 50. Yılında Sovyet Rusya (gezi yazısı)SOHBET-FIKR5. ÜNİT3. Metin Hazırlı•
+Köşe yazısını takip ettiğiniz bir köşe yazarı var mı? Varsa ne tür yazıları okumaktazevk alıyorsunuz?
+SİNEMBoş vaktim oldukça sinemaya giderim. 
+Yumuşak bir karanlığa gömülmüş, makinenin 
+hışırtısını dinleyerek, cismimin değil, ruhumu bir çetin yol üzerinde mola verdiğini hissederi. Karanlık, ölümün bir parçasıdır. 
+Onun için dinlendiricidir. Büyük dinlenme, 
+bir karanlık denizine dalıp bir daha ışığa kavuşmamakta başka nedir?
+Sinemanın diğer bir fazileti de olgun yaşın, kafatası içinde bir deste devedikeni gibi 
+sert duran acıtıcı mantığı yerine, çocuk saflığını ve kolayca aldanış kabiliyetini koymasıdı. Rüya âlemi üzerine açılmış sihirli bir pencereyi andıran beyaz perdede koşuşan, 
+dövüşen, düşen, kalkan şu ahmak kişilerin tatsız tuhaflıklarından veyahut kovboy biniciliklerinde veya olağanüstü hırsızlık olaylarından başka türlü tat almak mümkün olur 
+muydu? İnsan saflığıyla beslenen sinema edebiyatı, henüz kıymetsiz yazarın işidir. Resmi 
+beyaz perde üzerinde kımıldayan şu rimel ile kirpiğinin her teli bir ok gibi dikilmiş güzel 
+kadının gözünden damla damla akan sahte gözyaşları, zevkini ve sağduyusunu, şapka ve 
+bastonuyla birlikte vestiyere bırakmayan adamı, üzüntüden değil, ancak can sıkıntısından 
+ağlatabilir. 
+Sinema, böyle yormayan masum bir göz eğlencesi kaldıkça yorgun başın sevimli bir 
+sığınağıdır. Her zevkini kaybetmiş ruhu, çocukluk tazeliğine kavuşturan bu karanlıkta, 
+basit musiki, tatlı bir ninni vazifesini görür. Ben, en güzel ve en dinlendirici uykularımı 
+sinemanın ipek yastıklar gibi başın arkasına yığılan yumuşak karanlıklarına borçluyum. 
+Ahmet Haşim, Bize GörMetinde Geçen Kelime ve Kelime Gruplarkovboy:  Amerika’da sığır çobanırimel: Kadınların kirpiklerini kıvırmak ve daha uzun göstermek için fırça ile sürdükler yağlı sürme, maskaraBilgi KutusFIKRA (KÖŞE YAZISI)
+Fıkra, gazete ve dergilerin belirli sütunlarında yayımlanan, güncel, siyasal ve toplumsa sorunları ele alan, bunları ayrıntılara inmeden işleyen, başlıklı, imzalı yazılara fıkra 
+SOHBET-FIKR5. ÜNİTdenir. Çoğunlukla bir günlük ömrü olan fıkraların anlatımları olabildiğince yalın ve yoğunduEle alınan sorun girişte söylenir, gelişmede açıklanır. Açıklama yapılırken makalede 
+olduğu gibi kanıtlama, doğrulama yoluna gitmek zorunluluğu yoktur. Toplumsal, siyasal, 
+kültürel gerçekleri ortaya dökmeyi; bu yolla kamuoyu oluşturmayı ve okuru yönlendirmey amaçlar. Yer yer nükteli sözler kullanılır.Fıkralarda yazar kendi görüşlerini ortaya koya. Günlük konuşma diliyle yazılırCUMHURİYET ÖNCESİ DÖNEMDE FIKRFıkra türü gazeteciliğin gelişmesine paralel olarak 17. yüzyıl Fransa’sında doğmuştur. 
+Belli sayılarda çıkarılan gazetelerde günlük olaylar bir haber niteliğinde sunuldu. Daha 
+sonra olaylar hakkında fikir yazıları günübirlik yazılmaya başlandı. Böylece başlı başına 
+bir uğraş hâline gelen fıkra yazarlığı, yeni bir tür olarak fıkrayı ortaya çıkardıTürk Edebiyatında da Batı’da olduğu gibi fıkra türü gazeteciliğin gelişmesi ile ortaya 
+çıktı. İlk resmî gazete Takvim-i Vakayi güncel haberlerin paylaşıldığı bir araçtı. Türk edebiyatınd fıkra yazarlığı, Şinasi’nin 1860 yılında Agâh Efendi ile birlikte çıkardıkları ilk 
+özel gazete Tercüman-ı Ahval’deki yazılarıyla başladı. Bu dönemde yazı türleri arasında 
+bir ayrım yapılmayarak güncel olaylar ile ilgili fikir yazıları makale gibi okura sunulduGerçek anlamda ilk fıkra yazıları Servetifünun Dönemi’nde görülür. Bu dönemde 
+Ahmet Rasim, Hüseyin Cahit Yalçın, Ahmet Haşim gibi sanatçılar fıkra türünde eserler 
+kaleme aldıMetni Anlama ve Çözümlem1“Sinema” metninin konusunu bulunuz. Konunun güncelliği hakkında ne düşünüyorsunu?
+2Yazarın bu parçada ileri sürdüğü görüş nedir? Ortaya koyduğu bu görüşlerden hangisini bilgi, hangisinin yorum olduğunu belirleyiniz3“Sinema” metnini “Faydalı Bir İş Görmek Zevki” metniyle üslup bakımından karşılaştırını. Benzer ve farklı yönlerini belirleyiniz4Yazarın “Büyük dinlenme, bir karanlık denizine dalıp bir daha ışığa kavuşmamaktabaşka nedir?” cümlesiyle vermek istediği ileti nedir?
+Çözümlü Örnek SorAşağıdakilerden hangisi fıkra türünün özelliklerinden biri değildir?
+A) Güncel, siyasal ve toplumsal sorunları ele alırB) Sanatsal, süslü bir dil ve anlatım kullanılırC) Yazar kendi duygu ve düşüncelerini ortaya koyarD) Gazete ve dergilerin belirli sütunlarında yayımlanırSOHBET-FIKR5. ÜNİTÇözüA, C ve D seçeneğinde verilenler fıkra türünün özelliklerindendir. Fıkralarda sanatsal, 
+süslü bir dil ve anlatım değil; günlük konuşma dili, sade bir anlatım tercih edilirCevap:  BiyografAhmet Haşim (1884-1933) 
+“Sanat için sanat” anlayışını benimsedi. Ona göre, şiir ile düzyazı birbirinden kesin 
+çizgilerle ayrılır. Şiir “duyulmak” için, düzyazıysa “anlaşılmak” içindir. Şiirdeki güzelliği kapalılıktan doğduğunu, şiir dilinin “müzikle söz arasında, sözden çok müziğe yakı” olduğunu savundu. Şiirde birinci plana uyumu, ikinci plana da anlamı aldı. Türlü 
+anlamlara gelen, herkesi hoşlanacağı duygulara sürükleyen, anlam bakımından tam bir 
+açıklık taşımayan, okuyucunun hayalini her an uyanık tutan şiire varmaya çalıştı. Batılı 
+sembolistlerde olduğu gibi, görünen âlemin ötesinde, görünmeyen bir âlemin varlığına 
+inandı. İnsanın iç ürperişlerini, akşam güneşinin renklerini, dizelerle resim yapan bir sanatı özelliklerini, ışıklı duygularla, renkli seslerle örülü bir kompozisyonu onda bolca 
+bulabiliriz. Aşk ve doğa, şiirlerinin en belirgin konularıdırBütün şiirlerinde aruz ölçüsünü kullandı. Arapça, Farsça kelimelere, tamlamalara, 
+benzetmeli, istiareli, mecazlı anlatıma çok yer verdi. Son şiirlerinde, yalın bir dile yöneldi. 
+Düzyazılarındaysa açık, anlaşılır, yalın bir anlatımı benimsediEserleri: Göl Saatleri, Piyale (şiir); Bize Göre, Gurâbâhâne-i Lâklâkân, Frankfurt Seyahatnames (düzyazı)SOHBET-FIKR5. ÜNİT4. Metin Hazırlı•
+Bir yazarın anısına ödül törenleri düzenlenmesini nasıl değerlendiriyorsunuz?
+ANILMAK ÜZERİNSait Faik’i mayıstan mayısa hatırlarız. Sait Faik, hiç şüphesiz Türk edebiyatının en iyi 
+hikâyecilerinden biridir. Ama onu mayıstan mayısa hatırlayışımızın sebebi bu değildir. 
+Öyle olsa onu mayıstan mayısa değil, her zaman hatırlamamız gerekir. Öyle olsa onun kada değerli başka hikâyecilerimizi de hatırlamamız gerekir. Sait Faik’i mayıs ayında güncelleştire neden, kendi adına düzenlenen Sait Faik Armağanı’dır. Değerli hikâyecimizin 
+vakitsiz ölümünden beri her yıl aksatılmadan yapılan bu yarışma, hikâye dalında kalem 
+oynatan tüm Türk yazarlarının en fazla amaçladıkları saygın bir armağandır. Daha aylar 
+öncesinden o yılki Sait Faik Armağanı’nı kimin kazanacağı bir merak ve heyecan konusu 
+olur. Hikâye kitabının kabına Sait Faik Armağanı kuşağını takınan yazarın hem onuru 
+pohpohlanmış, hem satış olasılığı artırılmış olur. Bu armağanın ilkine layık görülmüş bir 
+yazar olarak bunu kendi şahsımda çok iyi bilirim. Daha sonraki yıllar beni de seçiciler 
+kuruluna aldılar. İlkin rahmetli Refik Halit Karay’ın, sonra rahmetli Sabri Esat Siyavuşgi’in, şimdi de Sayın Vahit Turhan’ın başkanlığında her yıl toplanır ve her seferinde de 
+birinci seçmek için oldukça güçlük çekeriz. Çünkü çoğu yıllar katılma büyük olur. Bazen 
+armağana layık nitelikteki yazarlar arasındaki küçük fark da seçimi zorlaştırır. Sonunda 
+biri seçilir. Kazanan ve onu tutan okurlar sevinir. Kazanamayanları tutanlar jüriye çatar. 
+Bu öyle yıllar yılı sürer giderSait Faik, Parmakkapı’daki Sanatseverler Lokalinde yapılan bir tartışmada sık sık 
+sözü geçen “mezen” kelimesinin anlamını merak etmişti. Bir arkadaşı:
+Mezen diye sanatçıları koruyan varlıklı sanat dostlarına denir, demişti. Sait Faik’in 
+buna tepkisi çok hoştur:
+SOHBET-FIKR5. ÜNİTDesene annem en büyük mezenmişGerçekten de bu cevherli aylağı yaşamı boyunca hep annesi korudu. Hiçbir meslek 
+tutmadan başıboş yaşamasını o sağladı. Babası Adapazarlı bir tüccardı. Tahsil için Grenobl’e bile yolladığı oğlunun, kendi kereste fabrikasında çalışmasa bile, bir iş tutmasını 
+istiyor, Sait’in aylaklığına tutuluyordu. Babasının hışmına karşı onu hep annesi arkaladı. 
+Ve Sait Faik, Türk edebiyatında pek az kişiye nasip olan bir başıboşluk, Almanların “Muss” dediği bir yaratıcı rahatlık içinde, keyfi istediği zaman yazdı, keyfi istediği zaman durd. Ekmek parası için sabahtan akşama kadar yazmak zorunda bir Orhan Kemal’e kıyasla 
+lüks mevkide yaşar gibi mutluluğu vardı. Vakitsiz ölümünden sonra adının unutulmamasın ilk düşünen de yine annesi oldu. Tüm varını Darüşşafaka Cemiyetine bir tek şartla 
+bağışladı: Her yıl onun adını taşıyacak bir armağan düzenlenmesini istiyordu. Böylece 
+Darüşşafaka Cemiyeti de yılın en önemli bir edebiyat yarışmasına önayak oldu ve oluyor(...) 
+Haldun Taner, Çok Güzelsin Gitme DuMetinde Geçen Kelime ve Kelime Gruplarcevher: İyi yetenekDarüşşafaka: Şefat yuvasılokal:  Dernek eviBilgi KutusCUMHURİYET DÖNEMİ’NDE FIKRCumhuriyet Dönemi’nde gelişmeye başlayan fıkra türü Yakup Kadri Karaosmanoğl, Peyami Safa, Falih Rıfkı Atay, Yusuf Ziya Ortaç, Ahmet Kabaklı, Yaşar Nabi Nayır gibi 
+yazarlar tarafından benimsendiEdebî fıkra dalının gelişmesinde gazeteler yanında sayıları artan Ülkü, İstanbul, Türk 
+Düşüncesi, Türk Dili, Hisar vb. sanat ve edebiyat dergilerinin büyük katkısı oldu. Haldun 
+Taner, Ahmet Kabaklı, Oktay Akbal gibi yazarlar fıkra yazarlığını sürekli bir uğraş olarak 
+benimsediMetni Anlama ve Çözümlem1. Yazar, Sait Faik’in başarılı eserler vermesini ne ile ilişkilendiriyor?
+2. Fıkra türünün ortaya çıkmasında sözlü ve yazılı kültürün, toplumsal değişimlerin ve 
+etkileşimlerin, yayın organlarının ve teknolojinin etkisi nedir? Açıklayınız. 
+3. Okuduğunuz metinde millî, manevi ve evrensel değerler ile sosyal, siyasi ve tarihî 
+ögeleri belirleyinizSOHBET-FIKR5. ÜNİT4. Cümle yapıları ve anlatımından hareketle metnin üslup özelliklerini belirleyiniz5. Yazarın ortaya koyduğu bilgi, tespit ve yorumları;  gerekçe, kanıt, tutarlılık, geçerlilik, 
+doğruluk açısından değerlendirinizÇözümlü Örnek SorAşağıdakilerden hangisi edebî fıkra türünün gelişmesine katkı sağlayan sanat ve 
+edebiyat dergilerinden biri değildir?
+A) Ülkü  
+ 
+ 
+ 
+B) Türk DilC) Bilim Teknik  
+ 
+ 
+D) Hisar 
+ÇözüÜlkü, Hisar, Türk Dili sanat ve edebiyat dergisi, Bilim Teknik ise popüler bilim dergisidi. 
+Cevap:  Dil BilgisCÜMLE DIŞI UNSUCümlenin kuruluşundaki ögelere dâhil olmayan; sadece dolaylı olarak yardımcı olan 
+kelime, kelime grubu veya cümlelere cümle dışı unsur denir. Bu unsurlar açıklama, pekiştirm gibi işlevlerle cümlede yer alır ve cümlenin her yerinde bulunabilir. Bağlaçlar, 
+ünlemler, seslenme ve hitap kelimeleri ile ara söz ve ara cümleler cümle dışı unsur olarak 
+kullanılır.  
+Örnek: Çok düşündü ancak bu olaydan babasına bahsedemezdi. (bağlaç)
+        
+ 
+        CD• 
+Hey, bu tarafa doğru gelin! (ünlem)
+ 
+CD• 
+Mehmet -kendisi komşumuzdur- kibar ve hassas biriydi. (ara cümle)
+ 
+            CDAra Söz ve Ara Cümle: Cümlenin tamamının ya da cümledeki bir ögenin anlamını 
+kuvvetlendirmek, pekiştirmek, açıklamak amacıyla kullanılan ve cümlenin herhangi bir 
+ögesi olarak kabul edilmeyen söz veya kelime grubuna ara söz, cümle şeklinde olanlara da 
+ara cümle denir. 
+Örnek:  Masanın üzerindeki kalemi, ucu sivri olanı, uzatır mısın?  (ara söz)
+• 
+Mustafa -geçen yıl hukuk fakültesini kazandı- dün okula gelmişti. (ara cümle)  
+Uyarı: Ara söz ve ara cümleler çıkarıldığında, cümlenin anlamında eksilme veya bozulm olmaz. Ara sözler cümlede herhangi bir ögenin açıklayıcısı olur ve açıklayıcı olduklar ögeyle birlikte değerlendirilir.  Bunlar cümle içinde iki virgül, iki kısa çizgi arasında ya 
+da yay ayraç içinde kullanılırSOHBET-FIKR5. ÜNİTÖrnek:  Tören konuşmanızı (sosyal medyanın zararları)  çok beğendi. (ara söz)  
+• 
+Mahmut Bey — Ceyhan’da beraber çalıştığımız öğretmen arkadaş — yarın buraya 
+gelecek. (Ara söz, özne görevindedir.)
+• 
+Ferhat Bey (müdür yardımcısı) sizi görmek istiyor. (ara söz)
+                          CD1. UygulamAşağıdaki cümlelerdeki cümle dışı unsurları bulunuza. Sucular da kâr edelim derken rüya görmüşe döndüler. 
+ 
+b. Kasaplar da şu serinlikten hazzetmişlerdir. 
+ 
+c. Onları seyrederken içimde, arabanın bir ucuna dayanarak onlara yardım etmek arzular uyanır. 
+ 
+ç.  Susuz bir bostan kuyusunun dolabını bir at ömür boyunca, bir iş görüyor sanarak 
+çevirebilir 
+d. Allah kimseyi böyle bir teselliden mahrum bırakmasın!
+ 
+e. Boş vaktim oldukça sinemaya giderim 
+f. 
+Sinema, böyle yormayan masum bir göz eğlencesi kaldıkça yorgun başın sevimli bir 
+sığınağıdır. 
+ 
+g. Babası Adapazarlı bir tüccardı. 
+ 
+SOHBET-FIKR5. ÜNİThDarüşşafaka Cemiyeti de yılın en önemli bir edebiyat yarışmasına önayak oldu2. UygulamAşağıdaki cümlelerdeki yazım yanlışı olan kelimeleri bularak bunların doğru yazımların boş bırakılan yere yazınıza— Haniya buzdan içen, diye bağıranlar oldu. (..................)
+bSait Faik’i Mayıs ayında güncelleştiren neden, kendi adına düzenlenen Sait Faik Armağan’dır.  (.................................................................................................................)
+cBu öyle yıllaryılı sürer gider. (.........................................)
+ç. Gerçektende bu cevherli aylağı yaşamı boyunca hep annesi korudu. (.....................................)
+dOnların faydasız, lüzumsuz olduklarını hissettiklerine, bir iş görmeden oturduklariçin kederlendiklerine hükmetmek her hâlde yanlış olmayacaktır.  (...................................)
+eZaten insanı yer yüzündeki öbür mahlûklardan ayıran başlıca fark da galiba budur. (..........................................)
+fZaten işin garip olduğu kadar güzel olan tarafı da bu değilmidir? (.....................)
+YAZMA. Yazma Tür ve Tekniklerini TanımFıkra YazmBu tür çalışmalarda ilk olarak güncel bir yazma konusu ve yazının ana düşüncesi belirleni. Metinde kullanılacak bilgi, düşünce, anekdot, mizah, anı, örnek vb. karar verilir. 
+Gündemle konunun ilişkisi kurulurMetnin temel bölümleri, bu bölümlerde değinilecek bilgi ve düşünceler sıralanırMetnin tutarlılığı değerlendirilir. Anlatım bozuklukları, yazım ve noktalama hataları 
+düzeltilir. Yazılan fıkra  “Yazma Öz Değerlendirme Formu”na göre değerlendirilirB. Yazma Tür ve Tekniklerini Uygulam Yukarıda verilen açıklamalar doğrultusunda güncel bir konuda fıkra yazınızSOHBET-FIKR5. ÜNİTSÖZLÜ İLETİŞİA. Sözlü İletişim Tür ve Tekniklerini TanımTürk Toplumunda Sohbet KültürToplum hayatında insanların yiyecek, içecek kültürleri oldukça önemli bir yere sahipti. Türk toplum hayatında da kahve ve kahvehane kültürünün önemli bir yeri vardır. 
+Tarihî süreç içinde sosyal çevre eğitimi sürecini etkileyen bir mekân olmuş kahvehaneler 
+ve bu mekânın baş içeceği olmuş kahve kültürünün sözlü kültürümüz sayesinde bugünler kadar gelmesi önemlidir. (...)
+Günlük hayatın bir parçası ve özellikle ikram edilme vasfıyla önceleri sosyal bir statü 
+göstergesi olan kahve, diğer yandan eğlence, sohbet ve misafirlik gibi sosyal kurumların 
+yeri doldurulamaz içeceği olmuştur (Açıkgöz, 1999:170)“Türk toplumu içinde sohbetlerin çeşnisi kahvedir. Bu durum sadece kıraathanelerde 
+değil, tüm dost sohbetlerinde ve ilişkilerinde geçerlidir. Dolaysıyla çaysız ve kahvesiz sohbetle yarım kalmakta, dostluklar pekişmemektedir. Bu etkinin bir sonucu olarak da bir 
+fincan kahvenin hatırına kırk yıl ömür biçilmiştir.”
+Kadir Ulusoy, Genel Ağ’daB. Sözlü İletişim Tür ve Tekniklerini UygulamÇevrenizde bulunan kişilerle “dostluk” konusunda bir sohbet gerçekleştiriniz. Bunun 
+için dostluk konusuyla ilgili gözlem, inceleme veya araştırma yapınız. 
+Sohbetinizi deyim, atasözü, vecize, terim, alıntı, kısa hikâye, anı, şiir, fıkra, söz sanatlar, istatistiklerden yararlanma vb. unsurlarla zenginleştiriniz. 
+Sohbetinizde; önemli noktaları vurgulayan ve konuşmayı takip etmeyi kolaylaştıran, 
+dinleyicilerin ilgisini canlı tutmanıza yardımcı olan çeşitli geçiş ifadelerini (bundan dolay, özellikle, kısacası vb.) kullanınız. Sohbetinizi dostlukla ilgili genel bir iletiyle bitirinizÖZESohbet, bir konuda derinleşmeden bilgi veren, yazarın kendi düşünce ve görüşlerin okurlara aktarmaya yarayan, konuşma tarzındaki yazılardır. Giriş, gelişme ve sonuç 
+bölümlerinden meydana gelen sohbet yazıları; bir düşünceyi açıklayan, geliştiren metin 
+türlerindendir. Okurların ilgisini çeken günlük olayları konu edinir.  
+Sohbet türü gazeteyle birlikte bir gelişme gösterir. İlk örnekleri Tanzimat Dönemi’nd verilen sohbet Cumhuriyet Dönemi’nde gelişme gösterir. Türk edebiyatında diğer türler kıyasla sohbet türünde daha az eser verilmiştir. Cumhuriyet öncesi dönemde Ahmet 
+Rasim “Ramazan Sohbetleri” adlı eseriyle bu türe katkı sağlamıştır. Cumhuriyet Dönem’nde Suut Kemal Yetkin, Şevket Rado, Melih Cevdet Anday ve Nurullah Ataç bu türde 
+eser veren sanatçılardırSOHBET-FIKR5. ÜNİTFıkra, gazete ve dergilerin belirli sütunlarında yayımlanan, güncel, siyasal ve toplumsa sorunları ele alan, bunları ayrıntılara inmeden işleyen, başlıklı, imzalı yazılardır. 
+Çoğunlukla bir günlük ömrü olan fıkralarda anlatımlar olabildiğince yalın ve yoğundur. 
+Fıkralarda yazar kendi düşünsel görüşlerini ortaya koyar. Günlük konuşma diliyle yazılan 
+fıkralarda nükteli ifadelere yer verilir.  
+    Türk edebiyatında fıkra yazarlığı, Şinasi’nin Agâh Efendi ile birlikte çıkardıkları ilk 
+özel gazete Tercüman-ı Ahval’deki yazılarıyla başladı. Bu dönemde yazı türleri arasında 
+bir ayrım yapılmayarak güncel olaylar ile ilgili fikir yazıları makale gibi okura sunuldu. 
+Gerçek anlamda ilk fıkra yazıları ise Servetifünun Dönemi’nde görülür. Bu dönemde Ahme Rasim, Hüseyin Cahit Yalçın, Ahmet Haşim vb. sanatçılar fıkra türünde eserler kalem aldıCumhuriyet Dönemi’nde gelişmeye başlayan fıkra türü Yakup Kadri Karaosmanoğl, Peyami Safa, Falih Rıfkı Atay, Yusuf Ziya Ortaç, Ahmet Kabaklı, Yaşar Nabi Nayır gibi 
+yazarlar tarafından benimsenerek bu türde eserler verilmiştir

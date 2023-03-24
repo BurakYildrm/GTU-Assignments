@@ -1,0 +1,400 @@
+• Coğrafi Bilgi Sistemleri (CBS)
+Coğrafi bilgi sistemleri anlaşılması zor olan, karmaşık olayları ve yönetim sorunlarını çözümünü kolaylaştırmak amacıyla; mekânsal konumu belirlenmiş verilerin 
+toplanması,yönetilmesi, sisteme işlenmesi ve sonuç çıkarımlı analiz edilmesi,modellenmes işlemlerini kapsayan donanım, yazılım ve yöntemler sistemidir. CBS uygulamalar gerçekleştirilirken; sistem analizi, sistem tasarımı, sistem veri tabanı, sistemsel 
+gerçekleştirme coğrafi analiz basamaklarından oluşurCBS uygulamasının kullanıldığı başlıca alanlaCoğrafi Bilgi SistemlerŞekil 1. 22 CBS sistemi 
+• Mekânsal Verilerin Haritaya AktarılmasUzaktan algılama teknikleri kullanılarak mekânsal veriler haritalara aktarılır. Noktasa, çizgisel ve alansal olmak üzere üç gruba ayrılır. Evler,elektrik direkleri,volkanik 
+dağlar ve otobüs durakları gibi veriler noktasal olarak gösterilir. Akarsular,sıradağlar,-
+yollar, fay hatları gibi veriler çizgisel olarak gösterilir. Millî Parklar ,denizler, göller ve 
+ormanlık saha alansal yöntemle gösterilir. 
+Hâlihazır 
+HaritalaKadastraHaritalaTapu SiciKayıtlarUydu 
+GörüntülerNumarataj 
+KayıtlarUlaşım vTrafik VerilerTeknik Altyapı 
+VerilerDiğer Verile(Sağlık, park,
+bahçeler vbGecekondu vMesken Kayıtlarİnşaat Ruhsat vMesken KayıtlarZemin vJeolojik verileİmar PlanlarCB-1.4.3 Yeryüzü Şekillerinin Haritalara AktarılmasHaritalar hazırlanırken yeryüzü şekilleri ve bilgilerin aktarılmasında farklı yöntem 
+ve teknikler uygulanır ancak çizilen yerin özelliğine göre bu yöntemler değişirHarita 1.7 Kabartma Harita 
+1.4.3.1 Kabartma YöntemBu yöntemde yüzey şekilleri belirli bir ölçek dâhilinde 
+kabartılarak çizilen alanın küçük bir maketi şeklinde hazırlanı. Şekiller gerçeğe en yakın biçimde küçültüldüğü 
+için anlaşılması en kolay yöntemdir ancak hazırlanması 
+ve taşınmasındaki zorluklardan dolayı fazla tercih edilmemekt masa ve duvar haritası olarak kullanılmaktadır1.4.3.2 Renklendirme YöntemGenellikle eş yükselti eğrileriyle birlikte kullanılan bu 
+yöntemde yeryüzü şekilleri,yükselti ve derinlik basamaklar farklı renklerle gösterilir. Fiziki haritalarda yükseltiler 
+genellikle yeşil,sarı ve kahverenginin çeşitli tonları ile gösterili. Denizlerdeki derinlik ise mavi ve tonları ile gösterili. Yükselti ve derinlik arttıkça renklerin tonlarında koyulaşm görülür. Renklendirme yöntemiyle çizilen Türkiye 
+fiziki haritasında 0-200 m arası yeşil renkle (Marmara 
+bölgesi), 500-1000 m arasında sarı renkle (Güneydoğu 
+Anadolu bölgesi), 1000-1500 m arasında turuncu renkle 
+(İç Anadolu bölgesi) ve 1500 m üzerinde kahverengi 
+renkle Doğu Anadolu bölgesi gösterilirŞekil 1. 24 Renklendirme YöntemHarita 1. 8 Türkiye Fiziki Haritası 
+1.4.3.3 İzohips Yöntemi 
+Deniz seviyesine göre aynı yükseltiye sahip olan noktaların birleştirilmesi ile elde 
+edilen kapalı eğrilere izohips denir. Denizlerde aynı derinlik noktalarını birleştiren 
+eğrilere ise eş derinlik veya izobat eğrileri denir. En sık kullanılan yöntemdir. Eğrileri sık ya da seyrek olması yüzey şekilleri hakkında bilgi verir. İzohips yöntemiyle 
+çizilen haritalara topografya haritaları da denir. Renklendirme yöntemiyle beraber 
+kullanılmaktadırŞekil 1. 27 Haritada EğiŞekil 1. 25 Çukur Alan 
+Şekil 1. 26 VadEş Yükselti Eğrilerinin Özellikleri ve Yer Şekillerinin Gösterilmes✓ Dıştan içe doğru gidildikçe eğrilerin yükselti değerler artar. Eğrilerin boyu kısalır✓ Eğimin fazla olduğu yerlerde izohips aralarındakmesafe daralır✓ Eğimin azaldığı yerde aralarındaki mesafe genişlerEğim aEğim fazlİç içe kapalı eğrilerdirÇevresine göre çukur alanlar (krater gibi) oklarla gösterilileEn içteki eğri çevresine göre en yüksek noktayı gösteri (tepe,zirve). 
+Denizle karanın birleştiği yer 0 metre eğrisidir (deniz 
+kıyısıdır)İki tepe arasındaki geçiş noktasına boyun denirAkarsuyun içinde aktığı çukurluğa vadi denir ve 
+"/\"şeklindedir"/\" nin açık ucu akarsuyun akış yönünü gösteri. 
+IŞekil 1. 28 Arazide EğiEğimin arttığı yerlerde :
+✓ Akarsuların akış hızı fazladır✓ Akarsuların aşındırma, taşıma ve enerji potansiyeller yüksektir✓ Denizler hızlı derinleşir, kıta sahanlığı daralır✓ Yol yapımı daha zor ve pahalı olurEgim fazl20075085015050100800150300450200175200Egim aKıta sahanlığı 
+geniKıta 
+sahanlığı 
+daTepe veya zirve (Doruk): Dağ, tepe gibi yer 
+şeklerinin en yüksek noktasıdır. Burada bir 
+nokta, üçgen veya küçük bir daire bulunur. 
+Bu da en yüksek noktanın bulunduğu yeri 
+gösterirHaliç: Gelgit, dalga ve akıntıların akarsuyun 
+ağız kısmını aşındırması sonucunda oluşan 
+girintilerdir. Kıyı çizgisi akarsu ağzında karanı içerisine doğru girmiştir. Akarsuların 
+okyanusa döküldüğü yerlerde görülürBoyun: İki tepe arasında kalan alçak kesimlerdek geçiş noktasıdır. İzohips haritalarında 
+birbirini kuşatmayan komşu izohipsler arasınd kalan yerlerdirSırt: İki yamacın birleştiği kesimlerdeki dış 
+bükey kısımlardır. İzohips haritalarında eğrile, yükseltinin arttığı yöne doğru “V” şeklind uzanırlar. Sırtlar aynı zamanda su bölümü 
+(yağış suları) çizgilerini oluştururzirvtepŞekil 1. 29 ZirvŞekil 1. 30 Haliç 
+Şekil 1. 31 BoyuŞekil 1. 32 Sırt 
+Görsel 1.23 Everest DağGörsel 1.24 Haliç 
+Görsel 1.25 Boyun  
+Görsel 1.26 SırDelta: Akarsuların denizin sığ yerlerini doldurmalar sonucunda oluşan ovalardır. Haritalard kıyı çizgisi denize doğru üçgen şeklind uzanan çıkıntıyla gösterilir. İç denizlere 
+dökülen akarsularda daha çok görülürFalez (Yalıyar):Deniz kenarlarında izohipsleri sıklaştığı âdeta üst üste bindiği yamaçlardı. Dağların denize paralel olduğu kıyılarda 
+yaygındır. Akdeniz ve Karadeniz’ deki kıyılarımızd sık rastlanırGörsel 1.27 DeltGörsel 1.28 FaleŞekil 1. 33 DeltŞekil 1. 34 FalezirvÇanak (Kapalı Çukur): Çevresine göre 
+alçakta kalan çukur yerlerdir. Çanağın 
+merkezine doğru yükselti değeri azalır. 
+Çanakları ayırt edebilmek için ok işaretler kullanılır ya da taranarak gösterilirGörsel 1.30 ÇanaŞekil 1. 36 ÇanaProfil Çıkarmİzohips haritalarında yer şekillerinin yandan nasıl göründüğünü anlamak için kullanıla bir yöntemdir. Profil çıkarırken yapılması gerekenleri şöyle sıralayabiliriz:
+✓ Profili çıkarılacak iki nokta önce belirlenir ve bu iki nokta arasına bir doğru çizili. 
+✓ Eş yükselti basamaklarını gösteren başka bir kâğıda paralel doğrular çizilereharitanın altına konur. 
+✓ Profil doğrusunun geçtiği yerlerdeki noktalar diğer kâğıttaki grafiğe adım adınokta ile işlenir. Daha sonra noktalar birleştirilerek Profil oluşturulurVadi: İzohipsler, en dar izohips istikametin doğru "/\" şeklinde girinti yaptıkları 
+yerlerdir. Akarsular "/\" nin açık ucuna 
+doğru akarlarGörsel 1.29 Vadi  
+Şekil 1. 35 Vadi  
+2.Adı3.Adı1.AdıŞekil 1. 37 Profil Çıkarma  
+1. UygulamAşağıda boş bırakılan yerleri uygun ifadelerle tamamlayını1. Fiziki haritalarda 2000 m ve üstü  yükseltiler ……………………………..rengi 
+ile gösterilir. 
+2. Nüfus, göç, yerleşme gibi insan faaliyetlerini ……………………………coğrafya 
+inceler3. Ölçekte, …………………… harita uzunluğunu, ……………………..küçültme 
+oranını gösterir.             
+4.  Ölçeği 1/200001 ile 1/500000  arasında olan haritalara …….……………………
+haritalar denir5. Kartoğrafya ………………………..bilimi demektir6. Akarsuyun içinde aktığı çukurluğa…………….denir7. Falezlere…………… ve ……………kıyılarımızda daha sık rastlanır8. Deniz seviyesine göre derinliği aynı olan noktaların birleştirilmesiyle elde edileeğrilere  ………………….denir9. Haritalarda kullanılan özel işaretlerin gösterildiği kısma ………………………
+denir. 
+10. Yeryüzünün tamamının veya bir bölümünün kuş bakışı görüntüsünün  belirli bir 
+ölçek dâhilinde küçültülerek  düzlem üzerine aktarılmış hâline ………………………denir11. Renklendirme yöntemiyle yapılan bir fiziki haritada yeşil renk...........metre arasın göstermektedir12. Büyük ölçekli haritalarda ayrıntıyı görme gücü daha ................................dır13. İzohips haritalarında nokta ya da üçgen ile gösterilen yerlere.....................denir14. Denizlerdeki derinliği gösteren haritalara........................denir. 
+15. Silindir projeksiyon ...................................ve çevresinin düzleme aktarılmasında 
+kullanılır2. UygulamAşağıdaki verilen ifadelerden doğru olanların karşısına “D”, yanlış olanların 
+karşısına “Y” yazını1. Yeryüzünün tamamının veya bir kısmının kuşbakışı görüntüsünün, belirli bir ölçe dâhilinde küçültülerek, düzlem üzerine aktarılmasına harita denir( )
+2. Ekvator ve çevresinin harita çiziminde silindirik projeksiyon yöntemi kullanılı( )
+3.Teknik ayrıntılar isteyen haritalar silindirik projeksiyon yöntemi ile çizilir.          ( )
+4. Haritalarda kullanılan özel işaretlerin ne anlama geldiğini gösteren bölüme lejandenir          ( )
+5. Deniz seviyesine göre aynı derinliğe sahip noktaların birleştirilmesi ile elde edilekapalı eğrilere eş derinlik eğrileri denir( )
+6. Eğimin arttığı yerlerde akarsuların akış hızı azdır( )
+7. Dünya üzerindeki herhangi bir noktanın yerini belirten hayali çizgilere(paralelleve meridyenler) koordinat sistemi denir( )
+8. Akarsuyun içinde aktığı çukurluğa vadi denir ve "/\" şeklindedir( )
+9. Çevresine göre alçakta kalan obruk, polye veya krater gibi çukur yerlere çanadenir          ( )
+10. Eğimin fazla olduğu yerlerde izohipsler arasındaki mesafe genişler( ) 
+11.İzohips eğrilerinde dıştan içe doğru gittikçe yükselti değeri artar( )
+12. İzohips haritalarında çanak ya da çukur yerler boyanarak gösterilir( )
+13. Kabartma yöntemi ile harita yapımı diğer tekniklere göre daha pahalıdır.         ( )
+14. Kesir ölçeğin pay kısmındaki sayı değişkendir( )
+15.Çizgi ölçekte çizgiler arasındaki uzunluk 1 cm gösterir( )
+ÖZEDünya’nın tamamının veya bir kısmının  kuş bakışı olarak ölçek dâhilinde küçültülere düzleme aktarılmış çizime harita denir. Dünya’nın şeklinden dolayı haritalarda 
+bozulmalar olduğu için birbirinden farklı özellikler projeksiyonlar kullanılır. Bunlarda en çok silindirik, konik ve düzlem projeksiyon yöntemleri tercih edilir. 
+Harita çeşitlerini ve bu harita çeşitlerinin kullanım alanları konulara göre değişmektedi. Örneğin iklim haritası hazırlanırken sıcaklık ve nem değerleri dikkate alınırke nüfus haritalarında  genel nüfus verilerinden yararlanılır.  Haritalarda iki tür 
+ölçek çeşidi kullanılır. Bunlar kesir ölçek  ve çizgi ölçektir. Her iki ölçek çeşidinde de 
+esas olan arazinin yüzölçümüdür. Yüzölçümü büyük olan yerlerde ölçeğin paydasındak sayıda büyük olur. Bu tip ölçeklere küçük ölçek denir.  Ölçeklerden yararlanılarak 
+alan, uzunluk, ve eğim hesaplamaları yapılırYeryüzü şekillerinin haritalara aktarılmasında farklı yöntemler kullanılır. Bunlar: 
+Renklendirme yöntemi, kabartma yöntemi, izohips yöntemidir. En çok kullanılan iki 
+yöntem renklendirme ve izohips yöntemleridirYeryüzündeki aynı yükseltiye sahip noktaların birleştirilmesiyle oluşturulan  kapalı 
+eğrilere izohips denir. İzohipslerde dıştan içeriye doğru eğrilerin yükselti değeri artar. 
+En yüksek yerde izohipsler nokta ile gösterilir. İzohips aralıkları eğime bağlı olarak 
+değişir. Eğrilerin sıklaştığı yerde eğim artar, seyrekleştiği yerde eğim azalır. İzohips 
+haritalarından faydalanarak yer şekillerinin yandan görünümü çizilir. Bu çizimlere 
+profil denir4. BÖLÜM ÖLÇME ve DEĞERLENDİRME SORULARAşağıda verilen çoktan seçmeli sorular cevaplayını1. Aşağıda, farklı ölçeklerle çizilmiharitalardan hangisinin ayrıntı gösterm gücü daha fazladır?
+A) 1/B) 1/C) 1/D) 1/2. Büyük ölçekli bir harita için aşağıdaklerden hangisi söylenemez?
+A) Bozulma azdırB) Ayrıntı fazladırC) Gerçek alan dardırD) Eş aralık değeri büyüktür3. Yukarıda verilen görselden yolçıkılarak aşağıdakilerden hangisinulaşılabilir?
+A) Yağış miktarınB) Yağış türünC) Bitki örtüsü dağılışD) Çöllerin dünya üzerindeki dağılışın
+4. 1/500 000 ölçekli haritada 7 cile gösterilen bir karayolunun gerçe uzunluğu kaç km’dir?
+A) 35 
+B) C) D) 5. Haritalarda belli bir oranda yapıla küçültme işlemi aşağıdakilerde hangisi ile ifade edilir?
+A)BaşlıB)LejanC) ÖlçeD) Yön çubuğ6. Haritalarda ölçek hesaplamasyapılırken aşağıdaki bilgilerdehangisine ihtiyaç duyulur?
+A)Hangi yarım kürede yer aldığB)Hangi enlemler arasında bulunduğ
+C) İki nokta arasındaki gerçeuzaklığD)Akarsuların hangi yöne aktığ7. 1/500 000 ölçekli bir haritada cm² ile gösterilen bir gölün gerçealanı kaç km²’dir?
+A) 100 kmB) 150 kmC) 155 kmD) 160 km8. Aşağıdakilerden hangisi haritalard bulunması gereken unsurlarda birisi değildir?
+A) ÖlçeB) LejanC) BaşlıD) ÇerçevHayat Boyu ÖğrenmHayat Boyu ÖğrenmI-Silindir ProjeksiyoII-Konik ProjeksiyoIII-Düzlem Projeksiyo9. Yukarda verilen Projeksiyon çeşitlerinde hangileri kutup odaklharita çiziminde kullanılır?
+A) B) IC) IID) I ve I10. Özel harita çeşitleri aşağıdakseçeneklerden hangisinde birliktverilmiştir?
+A) İdari haritalar - Toprak haritalarB) Şehir haritaları-Nüfus haritalarC) Jeoloji haritaları-Toprak haritaları         
+D) Atlas haritaları-Şehir-haritalar11. Haritalar hazırlanırken meydan gelen bozulmaların temel nedenaşağıdakilerden hangisidir?
+A)Karaların ve denizlerin dağılışB)Dünyanın küresel şeklC)Harita tekniklerinin gelişmemiş olmas
+D)Yeryüzünde yükselti faklarının olmas
+12. İzohips haritasında aşağıda verile yer şekillerinden hangisi gösterileme?
+A) Plato 
+B) DaC) SırD) Deniz çukurI-500 II-1000 III-1500 IV-2000 13. Yukarıda verilen yükseltileriharitaları çizildiğinde hangisind küçük ölçek kullanılır?
+A) B) IC) IID) I14. Türkiye fiziki haritasına bakıldığınd yeşil renk aşağıdakovaların hangisinde kullanılır?
+A) ÇukurovB) Konya OvasC) Pasinler OvasD) Çubuk Ovas15. İzohips haritasında eşyükselteğrileri bazı noktalarda birbirinyaklaşırken 
+bazı 
+noktalardbirbirinden uzaklaşırBu durum aşağıdakilerden hangis hakkında bilgi verir?
+A) Bakı durumB) Ölçek paydasC) EğiD) Toprak yapıs1. D,       2. D,      3. D,       4. D,       5. D,        6. Y,       7. D,       8. D,
+9. D,      10. Y,     11. D,     12. Y,      13. D,      14. Y,     15. 2. Uygulama Cevaplar1.Kahverengi,   2. Beşerî, 3. Pay–Payda, 4. Orta Ölçekli, 5. Harita, 6. Vadi,
+7. Karadeniz–Akdeniz, 8. İzobat, 9. Legant (lejand), 10. Harita, 11. 0-200,
+12. fazladır,13. Zirve, 14. İzobat haritası, 15. Ekvator çevres1. Uygulama Cevaplar4. ÜNİTE ve ÖLÇME DEĞERLENDİRME CEVAPLARHARİTA BİLGİSİ 
+1) 2) 3)4)5)6)7)8)9)10)11)12) D        13)D        14)15)ANAHTAR KELİMELENELER ÖĞRENECEĞİZ?
+•
+Atmosfe•
+Hava durumu ve hava kütles•
+İkli•
+İzoterm, izoba•
+Mutlak ne•
+Maksimum ne•
+Bağıl ne•
+Yağı•
+Atmosferin özelliklerini, katmanlarını ve etkilerini,
+•
+İklimin tanımını ve etkilerini,
+•
+Hava durumu ile iklim arasındaki farkı,
+•
+Nemlilik ile ilgili temel kavramları,
+•
+İklimi oluşturan elemanları,
+•
+Basınç ve rüzgar türlerin•
+Yağış ve oluşum şekillerini öğreneceğizBİRİNCİ ÜNİTDOĞAL SİSTEMLEBeşinci BölüAtmosfer ve İkliAtmosferdeki gazlar belli başlı üç grupta incelenebilir. Bunlar:
+✓ Atmosferde her zaman bulunan ve miktarları kolay kolay değişmeyen gazlar (azot,
+oksijen ve diğer asal gazlar)✓ Atmosferde devamlı bulunan miktarları yere ve zamana göre değişen gazlar (karbondioksi ve su buharı)✓ Atmosferde her zaman bulunmayan gazlar (kirleticiler, tozlar, ozon)Hazırlık KöşesAtmosfer nedir? Araştırarak, hayatımıza olan etkilerini tartışınız1.5.1 ATMOSFER VE HAVA OLAYLAR1.5. ATMOSFER VE İKLİGörsel 1.31 Atmosfer ve KatlarYerçekiminin etkisiyle dünyayı çepeçevre saran, şekil olarak küreye benzeyen gaz 
+tabakasına atmosfer denir. Atmosfer adı verilen hava küre çeşitli gazların bir araya 
+gelmesiyle oluşan bir karışımdır. Bu karışımdaki gazların % 78’ini azot % 21’ini ise oksije oluşturur. Kalan %1’lik bölümü ise diğer (karbondioksit, neon, helyum, kripton, 
+ksenon, hidrojen gibi )  gazlar oluşturmaktadırAzo%Oksije%diğerler%Atmosferin şeklide Dünya’nın şekline benzer yani kutuplarda basık Ekvator’ dan hafifçe şişkindir. Bu şekle 
+sahip olmasının temel nedenleri şunlardır:
+✓ Ekvator’ da yer çekiminin az, kutuplarda çok olmas,
+✓ Ekvator’ da ısınan havanın yükselmesi, kutuplardsoğuyan havanın aşağıya çökmesi,
+✓ Ekvator’ da hızlı dönen dünyanın gazları dışardoğru fazla savururken, kutuplarda yavaş dönmesi ve 
+savrulmanın az olmasıdırAtmosferin etkilerini şu şekilde sıralayabiliriz:
+✓ İçerisinde yaşam için gerekli olan gaz karışımını bulundurur✓ Güneşten gelen ısıyı tutarak Dünya’nın aşırı ısınmasını ve soğumasını engeller✓ Güneş ışınlarının dağılmasını sağlayarak, karanlık yerlerin aydınlık olmasını sağla✓ İçindeki hava akımları sayesinde yeryüzündeki sıcaklık ve nem dengesini korur ✓ Güneşten gelen zararlı ışınları (ultraviyole ) süzerek canlıları korur✓ Isıyı ve sesi iletir✓ İklim olaylarının meydana gelmesine olanak verir✓ Uzaydan gelen meteorların parçalanmasını sağlayarak Dünya  ’yı göktaşlarındakorur✓ Güneş’ten gelen ışınları kırarak  ışığı oluşturur, gökyüzünün mavi gö- 
+rünmesini sağlar✓ Dünya ile beraber döndüğü için eksen hareketini hissettirmez. Ayrıca Dünya'nıdış yüzeyinde oluşabilecek yanmaları önler. 
+Grafik 4.1 Atmosferdeki 
+gazların oranAtmosferin özelliklerini şöyle sıralayabiliriz:
+✓ İç içe geçmiş 5 farklı katmandan oluşur✓ Farklı gazların bir araya gelmesiyle oluşan karışımlı yapısı vardır✓ Yerden yansıyan ışınlarla ısındığından yerden yükseldikçe sıcaklık düşer✓ Ekvator’da daha kalın kutuplar üzerinde daha incedir✓ Yer çekiminin etkisiyle Dünya ile birlikte dönerek sürtünmeyi ve yangınlar çıkmasın engellerAtmosfer farklı özellikleri olan iç içe geçmiş çok katmanlı bir yapıya sahiptir. Atmosfe katmanlarının başlıca özellikleri şunlardır:
+Görsel 1.32 Atmosfer ve KatmanlarTroposfe✓ Atmosferin yere dokunan en alt katmanıdır✓ Su buharının %100’ ü, diğer gazların % 75’ i troposferdedir✓ Canlı yaşamı yalnızca bu katmanda görülür✓ Yer çekiminin fazla olmasına bağlı olarak gazların en yoğun olduğu katmandır✓ İklim olayları yalnızca bu katmanda oluşur (bulut, kar, yağmur …)✓ Yerden yükseldikçe her 100 m de 0,5° C sıcaklık düşer✓ Yatay ve dikey hava akımları bu katmanda görülür✓ Ekvator üzerinde daha kalın (16-20 km), kutuplar üzerinde daha incedir(8-10km)1.5.2 ATMOSFERİN KATMANLARStratosfer 
+✓ Atmosferin ikinci katmanıdır✓ Güneş ışınlarının en az tutulmaya uğradığı katmandır–50º ✓ Ekvator üzerinden kutuplara doğru çok şiddetli hava akımları gerçekleşir. (Jerüzgârlar)
+✓ Gaz yoğunluğu azdır✓ Üst sınırı 45–50 kilometreye kadar çıkar✓ Su buharı bulunmadığından gökyüzü hep açıktır. (kıtalar arası uçaklar buraduçar).Troposfer ile stratosfer arasındaki sınıra Trapopoz denirMezosfer 
+✓ Atmosferin üçüncü katmanıdır✓ Üst sınırı 80–90 km’ye kadar çıkar✓ Yıldız kayması denen meteorların yandığı katmandır✓ Gazların yoğunluğu daha da azalmıştır✓ Stratosfer ile mezosfer arasında ozon tabakası yer alır✓ Ozonosferde sıcaklık +85° C civarındadırTermosfer ( İyonosfer ) 
+✓ Yerden itibaren 700 kilometreye kadar çıkar✓ Gaz yoğunluğu daha da azalmıştır✓ Gazların iyonlarına ayrıştığı katmandır✓ Atomların parçalanması sonucu açığa çıkan enerji, sıcaklığı +250° C 'ye kadaçıkarır✓ Radyo dalgalarını yansıtma özelliğinden dolayı radyo, televizyon haberleşmesin olanak sağlarEkzosfe✓ En dışta bulunan, en kalın katmandır✓ Gaz yoğunluğu en azdır✓ Üst sınırı tam olarak belli değildir✓ Uzaya gaz kaçışları yaşanır✓ Haberleşme uyduları bu katmanda yer alır1.5.3 HAVA DURUMU VE İKLİYukarıda verilen fotoğraflar incelendiğinde yeryüzünün farklı alanlarında farklı 
+doğal çevre elemanları ve çeşitli ekonomik faaliyetler görülmektedir. Dünya’nın çeşitli 
+alanlarında değişik bitki örtüleri, hayvan türleri, tarım ürünleri ve yüzey şekilleri ile 
+karşılaşma nedenlerimiz neler olabilir?
+Görsel 1.33 Hava durumu ve iklim 
+İklim ve hava durumu koşullarının doğru ve güvenilir biçimde sınıflandırılması 
+için gözlem (rasat) kayıtlarına ihtiyaç duyulur. Bu gözlem ve rasat kayıtları ne kadar 
+uzun zamanı kapsarsa o kadar güvenilir olur. Gözlem ve rasat çalışmaları 3 başlık altınd incelenir:
+İklim: Oldukça geniş alanlarda uzun yıllar boyunca (en az 33 yıl) görülen sıcaklık , 
+yağış ve rüzgar gibi hava olaylarının ortalamasına denirİklimin oluşumu, dağılışı ve etkilerini inceleyen bilime klimatoloji adı verilir. Örneği; Antalya'da yaz mevsimleri çok sıcak geçer Ekvator bölgesinde iklim ve hava durumu birbirine çok benzerHava Durumu: Dar alanlarda etkili olan kısa süreli atmosfer olaylarına denir. Hava 
+olaylarını ve kısa süreli hava değişimlerini inceleyen bilime meteoroloji adı verilir. Günlü hava tahminleri yapılır. Örneğin: Yozgat' ta yarın hava güneşli ve sıcak olacak gibiİstasyoÇeşitli meteorolojik araçların ve kayıt cihazlarının bulunduğu, hava durumu tahminlerini yapıldığı merkezlerdir. Bu istasyonlardaki bilgisayarlarda toplanan veriler 
+ana bilgisayara gönderilerek ülke genelindeki veriler tek merkezde toplanılırBilgi Kutusİklim ile hava durumu arasındaki temel farklılık; iklim uzun zaman dilimin, hava durumu daha kısa zaman dilimini içerirGörsel 1.34 Meteorolojik İstasyoSinoptik GözleBütün dünya ülkelerinde aynı anda 6 saat arayla günd 4 kez yapılan gözlemlerdir. Bu gözlemlerin temel 
+amacı dünyanın diğer ülkeleriyle paralel, güvenilir meteoroloji tahminler yapmaktırFenolojik GözleBitkilerin vejetasyon dönemleri yani bir bitkinin olgunlaşm, çiçek açma, meyve verme gibi süreçleri dikkat alınarak değerlendirildiği iklim araştırma yöntemidirÖrneğin;Ne zaman doğdun? Sorusuna verilen cevapla bahçeler ekilirken veya kuzular doğarken gibi olurKlimatolojik GözleYerel saatler dikkate alınarak yapılan gözlemlerdir. Bu 
+gözlemler 07.00-14.00-21.00 saatlerinde yapılır ancak 
+her istasyon ihtiyaç ve amaçlarına göre farklı saatlerde 
+de gözlemler yapabilirGörsel 1.35 Sinoptik gözlem 
+Görsel 1.36 Klimatolojik gözleGörsel 1.37 Fenolojik gözlem 
+Örnek soru Aşağıda verilenlerden hangisi bir ülkede farklı iklim özelliklerinin 
+görülmesine kanıt olamaz?
+A) Toprak çeştliliğB) Canlı türlerindeki farlılıC) Doğal afetleD) Akarsu rejimindeki değişimleCevap: 1.5.3.1 İklimin Etkilerİklim, yeryüzündeki canlı yaşamı etkileyen en temel unsur olarak ortaya çıkar. Ayrıc yeryüzünün şekillenmesinde önemli bir rol oynar. İklimin etkilerini üç ana başlık 
+altında toplayabilirizGörsel 1. 38 İklim ve insan 
+Görsel 1.39 İklim ve üretim 
+a. İklimin İnsan Üzerine Olan Etkiler✓ Nüfusunun yeryüzüne dağılışına,
+✓ Yerleşme şekillerine ve konut tiplerine,
+✓ Beslenme şekillerini ve giyeceklerine,
+✓ Fizyolojik yapı ve özelliklerine,
+✓ Kültürel faaliyetleri ve özelliklerini etki ederb. İklimin Ekonomik Hayat Üzerindeki Etkiler✓ Ulaşım faaliyetlerine,
+✓ Sanayi faaliyetlerinin dağılışına,
+✓ Konut tiplerini ve kullanılan yapı malzemelerine,
+✓ Turizm faaliyetlerine ve türlerine,
+✓ Tarımsal faaliyetlere ve yetiştirilen ürünlere,
+✓ Ticaret faaliyetlerinin niteliğine etki ederGörsel 1.40 İklim ve çevre 
+c. İklimin Doğal Çevre Üzerindeki Etkiler✓ Orman ve tarımın üst sınırına,
+✓ Denizlerin tuzluluk oranlarına,
+✓ Dış kuvvetlere ve etki alanlarına,
+✓ Yeryüzünün şekillenmesine,
+✓ Taşların çözülme biçimine,
+✓ Toprak oluşumuna tiplerine ve özelliklerine,
+✓ Bitki örtüsünün yeryüzüne dağılışına,
+✓ Göllerin dağılışı ve sularının kimyasal özelliklerin✓ Yer üstü ve yer altı su miktarına,
+✓ Akarsu debilerine ve rejimlerine,
+✓ Hayvan türlerine ve dağılışına,
+✓ Erozyon ve heyelan oluşumuna,
+✓ Kalıcı kar sınırının yüksekliğine etki eder1.5.4. İklim Elemanları 
+1.5.4.1 Sıcaklıİklimi oluşturan en temel elemandır. İklimin diğer elemanları olan nemlilik, yağış, 
+basınç ve rüzgâr gibi faktörler sıcaklığın etkisi ile şekillenir. 
+Sıcaklıkla ilgili iki temel kavram vardır: Bunlar ısı ile sıcaklık günlük hayatta aynı 
+anlamda gibi kullanılsa da aslında birbirlerinden farklı kavramlardırIsı: Bir kaynakta var olan potansiyel enerjiye denir. Birim olarak kalori kullanılırÖrneğin; kömürde bulunan karbon onun ısı potansiyeldirSıcaklık: Cisimlerde var olan potansiyel enerjinin açığa çıkmış hâline denirSıcaklık ölçülebilen bir birimdir. Termometre ile ölçülür. Santigrat derece veya celciu derece olarak ifade edilir. Kömürün içerisindeki kalori potansiyel, kömürün yanmasıyl açığa çıkan enerji sıcaklıktırDünya’nın ısınması için ihtiyaç duyulan 
+enerji miktarı oldukça fazladır. Dünya'nın iki 
+temel enerji kaynağı vardır. Bunlardan birisi 
+temel sıcaklık kaynağı olan Güneş’ten gelen 
+ışınlardır. Diğeri ise ısınmada önemli bir yer 
+tutmayan volkanizma,sıcak sular ve sıcak buharlardıGüneş’in etrafına yaymış olduğu ışınların 
+yaklaşık iki milyonda biri dünyaya ulaşır anca bu ışınların tamamı Dünya’nın ısınmasın-
+Görsel 1.41 Işınların dağılışı 
+da kullanılamazGüneşten Dünya'ya ulaşan bu ışınları   n sahip olduğu enerjiyi % 100 olarak 
+ 
+kabul edersek şu şekilde bir dağılım ortaya çıkar:
+✓ % 25' i Atmosferin dış yüzeyine çarparak uzay boşluğuna tekrar yansır. (refleksiyo)
+✓ % 25' i Atmosfer içerisinde kırılarak ışığı ve gökyüzünün mavi rengini oluşturur(difüzyon)
+✓ % 15' i Atmosferdeki gazlar tarafından tutulur. (absorbe)
+✓ % 8'i tekrar yansımaya uğrar.(albedo )
+✓ % 27’si yerküreyi ısıtıra. Sıcaklığın Dağılışını Etkileyen FaktörleSıcaklık yeryüzünün her yerine eşit miktarda dağılmamıştır. Dünya’nın bazı alanlar yüksek sıcaklık değerlerine sahipken bazı alanlarında sıcaklık değerleri oldukça 
+düşüktür. Bu nedenler aşağıdaki tabloda verilmiştir•
+Güneş ışınlarının geliş açıs•
+Okyanus akıntılar•
+Yükselt•
+Nemlili•
+Güneşlenme süres•
+Rüzgârla•
+Kara ve denizlerin dağılış•
+Bitki örtüsTablo 1.2 Sıcaklığa etki eden faktörler 
+Güneş Işınlarının Geliş Açısı 
+Güneş ışınları yeryüzündeki sıcaklık dağılışını etkileyen temel faktördür. Günlük 
+veya mevsimlik olarak bir noktaya güneş ışınlarının geliş açısı değiştikçe sıcaklık değerler de değişir. Işınların büyük açıyla gelişi, sıcaklık değerlerinin yükselmesine, geliş 
+açısının küçülmesi ise sıcaklık değerlerinin düşmesine neden olurYeryüzündeki bir noktaya güneş ışınlarının geliş açısını etkileyen dört temel faktör 
+vardır:
+i. Dünyanın Şekli (Enlem etkisi)
+Dünya’ nın şeklinden dolayı güneş ışınlarının geliş açısı Ekvator’ dan uzaklaşıldıkçküçülür. Sıcaklık değerleri de buna bağlı olarak Ekvator’ dan uzaklaştıkça azalır. 
+Bu durum enlem etkisi olarak da ifade edilir. Ancak enlem etkisi yükseklik, 
+okyanus (Şekil 1. 38 Enlem etkisi) akıntıları rüzgârlar, karalar ve denizlerin dağılışı 
+gibi faktörlerin etkisiyle sıcaklık her zaman düzenli bir dağılış göstermeyebilir. 
+Örneğin, kış ayında İzmir ile Kayseri aynı enlemde bulunduğu hâlde sıcaklıklar 
+denizelliğin etkisi ile İzmir’de daha yüksektir. Atmosfer kalınlığı, Ekvator'dan 
+uzaklaştıkça daralır. Bu durum güneş ışınları aldığı yolun uzunluğuna göre sıcaklığa 
+etki eder. Kısa mesafede gelen ışınlar daha az enerji kaybettiği için sıcaklığı arttırır. 
+Mesafe uzadıkça sıcaklık da azalırGecGündü90°50°
+50°
+67°
+67°
+90°
+0°
+0°
+Güneş ışınlarının geliş açıs90°ÖgleKuşluk 
+VaktSabaATMOSFEii. Eksen Hareketi(Günlük Hareket)
+Dünya batıdan doğuya doğru dönerken güneş ışınlaının geliş açısı gün içerisinde değişikliğe uğrar. Güne ışınlarının geliş açısı büyüdükçe sıcaklıklar da artış 
+gösterir. Günün en soğuk saati güneşin doğmasından 
+hemen önceki zamandır (ışıma nedeniyle ).  Günün en 
+sıcak saati güneş ışınlarının en büyük açıyla geldiği saat 
+on iki değil öğleden sonraki zamandır (13.00 – 14.00). 
+Bu saatten sonra ışınların geliş açısı küçülür ve sıcaklık 
+etkisini düşerŞekil 1. 39 Gün içinde 
+ışınların geliş açısı 
+iii. Eksen Eğikliği Açısı (Yıllık Hareket)
+Eksen eğikliği ve yıllık hareketten dolayı Güneş ışınlaının geliş açısı yıl boyunca değişikliğe uğrar. Eksen 
+eğiklik açısı dönenceleri ve her iki yarım küredeki mevsimleri başlangıç tarihlerini belirler. Örneğin, 21 Hazi-
+Şekil 1. 38 Enlem etkisKutup kuşağ66°33´
+66°33´
+90°
+90°
+23°27´
+23°27´
+0°
+Kutup kuşağOrta kuşaOrta kuşaEkvatoTropikakuşaK.K.G.K.Y.O.66°33´
+66°33´
+90°
+90°
+23°27´
+23°27´
+Aydınlanma çemberGüneş ışınlarGörsel 1.42 Eksen eğiklik açısı 
+Görsel 1.43 Eğim ve bakı 
+ran’ da Yengeç Dönencesi’ ne ışınlar dik gelir ve yaz mevsim başlar. Bu tarihten sonra Kuzey yarım kürede sıcaklı değerleri yükselir. Aynı tarihte Güney yarım küre kış 
+mevsimini yaşar ve güneş ışınları eğik açılarla düştüğü 
+için sıcaklık değerleri de azalır. Kuzey yarım küredeki 
+karalarda en sıcak ay Temmuz iken deniz kenarlarında 
+Ağustos ayıdır. Karalar üzerinde ise en soğuk ay Ocak, 
+deniz kenarında Şubat ayıdırBilgi KutusBilgi KutusBir yıl içinde en sıcak ayın Haziran, en soğuk ayın Aralık olmamasının nedeni 
+ısınma ve soğumanın yavaş gerçekleşmesidir. Karalar ve denizler arasındaki bir 
+aylık farkın nedeni ise kara ve denizlerin farklı hızda ısınma ve soğumalarıdırKuzey yarım kürede dağların güneye bakan, Güney yarım kürede ise dağları kuzeye bakan yamaçları güneş ışınlarını daha büyük açıyla alır. Bu nedenle 
+sıcaklık daha yüksektir. Dolayısıyla tarım ürünleri daha erken olgunlaşır; orma, tarım ve kalıcı kar (toktagan) alt sınırı daha yüksektiriv. Eğim ve Bakı EtkisYer şekillerinin sahip olduğu eğim şartları bakıyı etkile. Yamaçların eğiminden dolayı Güneş’e göre ortaya 
+çıkan konumuna bakı etkisi denir. Bakının sıcaklık üzerind önemli bir etkisi vardır. Eğim ve bakının etkisiyl dağların Güneş’ e dönük yamaçları, Güneş ışınlarını 
+daha büyük açıyla alırlar. Ayrıca bu yamaçlarda güneşlenm süresi daha uzun, sıcaklık ortalamaları daha yükse olurDönenceler arasında kalan yerlerde ise her iki yamaçta güneş ışınlarını dik aldığında bakı etkisi görülmez300020001000100012001400160018008006004002000253º0º-1º-2º-3º-4º-6º-5º2º1º25352015Şekil1. 40 Yükselti ve sıcaklık değişimŞekil1. 41 Yükseldikçe sıcaklık değişimYükselti FaktörYükseklere doğru çıkıldıkça hava basıncının düşmesi, su buharının azalması ve ışım nedeniyle sıcaklıklar ortalama her 100 metrede 0,5 C° azalır. Yükseklerden deniz 
+kıyısına doğru indikçe her 100 metrede sıcaklık 1C°artar. Bu nedenle Ekvator çevresind insanlar yükseklere, Orta Kuşak'ta ise dağların alçak alanlarına doğru yerleşir. 
+Deniz kıyısından itibaren yükselti arttıkça bitki ve hayvan türlerinde değişiklikler 
+görülürGüneşlenme Süresi 
+Bir bölgede güneşin gökyüzünde görülebildiği süreye güneşlenme süresi denir. 
+Güneşlenme süresinin uzun olması, o bölgenin güneşten aldığı enerji miktarının artmasın ve sıcaklığın yükselmesine yol açar. Dünyada güneşlenme süresinin yıl boyunc en fazla olduğu yerler 30° enlemleri ve dönenceler çevresidir. Ekvator çevresinde 
+bulutluluk oranının yüksek olması ve sürekli yağış almasından dolayı güneşlenme süres kısadır. Bu nedenle yıllık ve günlük sıcaklık farkı azdır. Kutup ve çevresinde yaz 
+mevsiminde güneşlenme süresi uzundur fakat sıcaklık düşüktür. Bu durumun temel 
+sebebi güneş ışınlarının küçük açılarla gelmesidir. Güneşlenme süresi üzerinde bulutlulu, gündüz uzunluğu, bakı ve eğim koşulları etkilidir. Ülkemizde güneşlenme 
+süresinin en uzun olduğu bölgeler Güney Doğu Anadolu ve Akdeniz bölgesi (enlem 
+etkisiyle) iken en kısa olduğu bölgemiz, Karadeniz bölgesidir (bulutluluk oranının 
+yüksek olması)Kara ve Denizlerin Dağılışı 
+Harita 1.9 Dünya Fiziki HaritasGrafik 1. 2 Karaların oranın dağılışKaralar ve denizler yapısal özelliklerinden dolayı farklı sürelerde ısınır ve soğur. Karala, Güneş’ten gelen ısıyı iyi iletmemeleri nedeniyle çabuk ısınır ancak depolanan ısı 
+miktarının az olması sebebiyle güneş batar batmaz da hızla soğumaya başlar. Denizler 
+gün içinde depo ettikleri ısıyı gün battıktan sonrada kullanırlar. O yüzden denizlerde 
+geç ısınıp geç soğuma görülürKuzey yarım kürede karaların oranı, Güney yarım küreye göre daha fazla olduğunda Kuzey yarım kürede yıllık sıcaklık ortalama +2º C daha yüksektir. Bu nedenle 
+Kuzey yarım kürede sıcak ve ılıman kuşaklar daha geniş yer kaplar%Karala%Karala%Karala%DenizleYeryüzGüney Yarım KürKuzey Yarım Kür%Denizle%DenizleBilgi KutusDenizden uzak karaların iç kısımlarında günlük ve mevsimlik sıcaklık farklar fazla iken deniz kıyılarında ve nemli yerlerde günlük ve mevsimlik sıcaklık 
+farkı azdırOkyanus Akıntıları 
+Dünya’ da sıcaklık dağılışını etkileyen faktörler arasında okyanus akıntıları da öneml bir yer tutar. Ekvator’dan kutuplara doğru giden akıntılara sıcak su akıntıları adı 
+verilir. Sıcak su akıntıları, ulaştıkları yerlerde sıcaklığı artırır ve yağışlara neden olur. 
+Bu durum iklimi ılımanlaştırırKutuplar ve çevresinden Ekvator’ a doğru hareket eden soğuk su akıntıları geçtikler yerlerde sıcaklığı düşürür. Böylece yağış miktarı azalır ve iklim sertleşir. Türkiye’nin 
+okyanuslara kıyısı bulunmadığı için ülkemiz doğrudan okyanus akıntılarının etki alanın girmez. 
+Harita 1.10 Okyanus Akıntılarının DağılışYukarıdaki harita incelendiğinde Kuzey yarım kürede sıcak okyanus akıntıları 
+kıtaların batı kıyılarını, soğuk okyanus akıntıları ise kıtaların doğu kıyılarını 
+etkilediği, Güney yarım kürede ise sıcak okyanus akıntıları kıtaların doğu 
+kıyılarını, soğuk okyanus akıntıları da batı kıyılarında etkili olduğu görülmektedirGulf StreaKaliforniyBenguelKanaryOyoşivKroşivBrezilyAlaskMadagaskaBatı AvustralyDoğu AvustralyPerLabradoSoğuk AkıntSıcak AkıntGrafik 1.3 Ekvatoral iklim grafiğGrafik 1.4 Akdeniz iklimi grafiğNemlilik 
+Atmosferdeki suyun gaz hâline nem denir. Havada bulunan nem, güneşten gelen 
+ısıyı tutar (ışıma) ve ısı kaybını azaltır. Bu durum atmosferdeki ısının dengeli bir şekild dağılımını sağlar. Havadaki nem miktarı; sıcaklık, yükseklik, yerşekilleri ve su kaynağın yakınlığa bağlı olarak değişir. Nemlilik oranı; okyanus, deniz, göl ve akarsulara 
+yakın yerlerde yüksektir. Dünyada nemlilik, ekvatoral iklim (Amazon havzası, Kongo 
+havzası ve Endonezya ), muson iklim bölgesinde (Hindistan,Mançurya bölgesi, Japony gibi) ve ılıman okyanusal iklim alanlarında yüksektir. Ülkemizde ise Karadeniz ve 
+Akdeniz bölgelerinde nemlilik oranı yüksek, İç Anadolu’ da ve Güney Doğu Anadolu’ 
+da en düşüktür. Çöllerde ve kutup noktalarında ise havadaki su buharı miktarı azdırºm. . . . . ºm. . . . YağıSıcaklıEKVATORAL İKLİM (Malezya) 
+AKDENİZ İKLİMİ(Türkiye)
+KarayeYıldıLodoKıblSamyelTÜRKİYSıcaklıklığı DüşürüPoyraGörsel 1.44 Doğal Bitki Örtüsü 
+RüzgârlaRüzgârlar doğdukları bölgelerin sıcaklık ve nemlilik gibi genel özelliklerini estikleri 
+bölgelere doğru taşırlar. Bu nedenle Kuzey yarım kürede kuzey yönlü rüzgârlar hava 
+sıcaklığını düşürürken, güneyden esen rüzgârlar hava sıcaklığını yükseltirler. Güney 
+yarım kürede ise bu durumun tam tersi yaşanır. Örneğin Türkiye’ de kuzeyden esen 
+rüzgârlar sıcaklığı düşürürken, güneyden esen rüzgârlar sıcaklığı artırıcı ve kurutucu 
+bir etkide bulunurSıcaklığı YükseltiHarita 1.11 Türkiye’yi Etkileyen Yerel Rüzgârlar 
+Bitki ÖrtüsBitkilerin hücre yapılarında yüksek miktarda su bulunması sıcaklığın etkisiyle 
+birlikte terlemeyi ortaya çıkarır. Bu nedenle ormanlık alanlarda nem fazla 
+olduğundan hava geç ısınır, geç soğur. Bu sahalarda günlük ve yıllık sıcaklık farkları 
+daha azdır. Bu farkın az olması özellikle kış mevsiminde yabani hayvanların 
+ormanlık sahalarda bulunmasına neden olurb. Sıcaklığın Dünya’ya DağılışYeryüzünde sıcaklığın genel olarak dağılışına etki eden faktörler vardır. Bu faktörleri(enlem, denize yakınlık, karasallık,yükselti vb.) ortaya çıkması, sıcaklığın Dünyadak dağılışını doğrudan etkiler. Dünya’nın bazı alanların da yüksek sıcaklık değerleri 
+görülürken, bazı alanları daha ılık, özellikle kutuplara yakın yerleri ile dağların yüksek 
+alanları düşük sıcaklık değerlerine sahiptir. Sıcaklığın dağılışında iki temel kavram 
+kullanılırGerçek Sıcaklık: Herhangi bir zaman ve yükseklikte ölçülen sıcaklığa gerçek sıcaklı denir. Termometrenin ölçtüğü sıcaklıktırİndirgenmiş Sıcaklık: Bir yerin yükseltisinin 0 m kabul edilerek hesaplanan sıcaklığın denir. Bir yerin sıcaklığı hesaplanırken o yerin yüksekliği 200’ e bölünür ve elde 
+edilen değer gerçek sıcaklığa eklenerek indirgenmiş sıcaklık bulunurİndirgenmiş Sıcaklık = Gerçeklik SıcaklıYüksekli200 metrBilgi KutusTürkiye’ de gerçek sıcaklıkla indirgenmiş sıcaklık arasındaki farkın;
+✓ En az olduğu bölge Marmara bölgesi,
+✓ En fazla olduğu bölge Doğu Anadolu bölgemizdirÖrnek Soru: Deniz seviyesine göre 1200 metre yükseklikte bulunan A noktasında 
+ölçülen gerçek sıcaklık 13C° olduğuna göre A noktasının deniz seviyesine indirgenmiş 
+sıcaklığı kaç derecedir?
+ÇÖZÜM: Önce formülü yazarsak;
+İndirgenmiş Sıcaklık = Gerçek Sıcaklık +
+Yüksekli200 Metr200 =13+
+=6º C fark çıka=13+6 fark=19º C A noktasının indirgenmiş 
+sıcaklığıdır1200 +
+İzoterm Haritaları: Aynı sıcaklık değerlerini gösteren noktaların birleştirilmesiyle 
+elde edilen eğrilere izoterm (eş sıcaklık eğrileri) adı verilir. Sıcaklıkların dağılışını 
+gösteren haritalara İzoterm haritaları adı verilir. Sıcak dağılışlarını gösteren haritaları, 
+gerçek izoterm haritaları ve indirgenmiş izoterm haritaları olarak iki grupta incelerizi. Gerçek İzoterm HaritalarDoğrudan doğruya meteoroloji istasyonlarından gelen veriler ile oluşturulan izoter haritalarıdır. Sıcaklığın yatay dağılışı fazla değişmez fakat yükseltiye bağlı olarak 
+dikey dağılış çabuk değişir. Bu bölgelerde kısa mesafede sıcaklık farkı belirgin olarak 
+hissedilir. Bu durum gerçek izoterm haritalarında karmaşık bir çizimin ortaya çıkmasın neden olur. Anlaşılması zor olduğu için çok fazla kullanılmazlar. İzoterm haritalarınd renklendirme yöntemi kullanılır. 
+4ºC 8º12ºC 16ºHarita 1.12 Türkiye Gerçek İzoterm Haritasii. İndirgenmiş İzoterm HaritalarHerhangi bir yerde yükseklik faktörü etkisi ortadan kaldırılarak sanki deniz kıyısındaymı (0 metre)gibi hesap edilmesiyle elde edilen haritalardır. Çok karmaşık olmaya nispeten daha düz uzanan çizgilerden oluştuğu için anlaşılması kolay çizimlerdi. Bu haritalarda çizgilerin kıvrılmalarına neden olan temel unsurlar:
+✓ Karasallık,
+✓ Okyanus akıntıları,
+✓ Kara ve denizlerin dağılışlarıdır19º18º17º16º15º15º14º14º14º13º19º20º20º21º19ºHarita 1.13 Türkiye’nin İndirgenmiş Sıcaklık HaritasBilgi KutusSıcaklıklar dünya genelinde dağılışı düzenli olmadığı için izoterm haritaları 
+kullanılmaktadır. İndirgenmiş izoterm haritalarında ise enlem etkisi belirgin 
+bir şekilde ortaya çıkmaktadır. Ekvatora yakın yerler sıcak iken Ekvator' dan 
+uzaklaştıkça sıcaklıklar düşer. Ülkemizin sıcaklık değerleri baz alınarak çizilen 
+izoterm haritaları incelendiğinde güneyden kuzeye doğru sıcaklıklar azalır. 
+c. Yıllık Ortalama Sıcaklık Dağılış✓ Dünya’nın en sıcak yeri 30° enlemleri çevresidir. Sebebi karasallık ve dinamiyüksek basıncın bu enlemlerde etkili olmasıdır✓ Kutup bölgelerinin Dünya’nın en soğuk yerleri olmasının sebebi enlem ve karasallıktı✓ Dünya’nın en sıcak ve en soğuk yerlerinin Kuzey yarım kürede yer alması karaları oranının fazla olmasına bağlıdır. İzoterm eğrilerinde bu nedenden dolayı Kuzey 
+yarım kürede daha çok dalgalanmalar görülür✓ Kuzey yarım kürede izotermler karaların batı kıyılarında kuzeye, doğu kıyılardgüneye doğru saparlar. Güney yarım kürede izoterm eğrileri karaların batısında kuzey, batı kıyılarında ise güneye doğru sapma gösterirler. Bu durumu sıcak ve soğuk 
+okyanus akıntıları ortaya çıkarır✓ Termik Ekvator, Kuzey yarım kürede Ekvator’la dönence arasında yer alırBilgi KutusTermik Ekvator, Dünya'nın en sıcak noktalarını birleştiren izoterm eğrisine 
+denir. Termik Ekvator eğrisi Ekvator dairesinin ortalama olarak 8°C kuzeyinde 
+bulunur. Termik Ekvator Dünya'nın en sıcak çizgisi olarak kabul edilir. Termik 
+Ekvator güneş, ışınlarının dik gelmesi durumuna göre yıl içinde yer değiştirir. 
+Karalar ve denizlerin ısınma farkından dolayı KYK’ de ortalama sıcaklık GYK’ 
+ye göre 2º C daha yüksek sıcaklığa sahiptir-10º-10º10º10º10º20º20º20º20º20º25º25º30º30+
+º-
+Yengeç DönencesEkvatoOğlak Dönences25º25º0º0º0º0ºHarita 1.14 Dünya Sıcaklık Dağılışı Haritasd. Ocak Ayı Sıcaklık Dağılış✓ Ocak ayında Kuzey yarım kürede kış, Güney yarım kürede yaz mevsimi yaşanmaktadı✓ En yüksek sıcaklıklara Oğlak Dönencesi çevresindeki karaların iç kısımlarınd0º(Brezilya,Güney Afrika ve Avustralya’ nın iç kesimleri) rastlanır✓ En düşük sıcaklıklara ise Kuzey yarım kürede Sibirya’ nın iç kısımlarında rastlanmasını sebebi karasallıktır✓ İzoterm eğrileri Asya ve Kuzey Amerika’nın iç kısımlarında güneye doğru, okyanu kenarlarında kuzeye doğru saparlar✓ Güney yarım kürede izotermler karalar üzerinde kuzeye, denizler üzerinde güney doğru saparlar✓ Güney yarım kürede izoterm eğrileri daha düz uzanır-30º-20º20º20º30º30º30º25º25º-10º0º0º0º10º10º10º--40ºEkvato-40º-30º-20º-10ºe. Temmuz Ayı Ortalama  Sıcaklık Dağılış✓ Güneş ışınları Kuzey yarım küreye dik geldiği için KYK’ de  yaz , GYK’ de kımevsimi yaşanır✓ Dünyanın en sıcak yerleri KYK’ de Yengeç Dönencesi ve çevresidi(Kuzey Afrika, Arabistan , İç Asya ve Kuzey Amerika’nın iç kısımları)Yengeç DönencesOğlak DönencesHarita 1.15 Dünya Ocak Sıcaklık Dağılı✓ Dünyanın en soğuk yerleri Güney kutup dairesi ve çevresidir (Antartika)✓ İzotermler KYK' de kuzeye , GYK’ de güneye doğru saparlar✓ GYK’ de denizler geniş yer kapladığından sıcaklık ortalamaları aşırı düşmez. İzoter eğrileri de daha düzenli uzanış gösterir.  
+10º10º10º10º-10º20º20º20º20º30º30º-30º30ºYengeç DönencesOğlak Dönences20º-20º00º0º0º0º1. UygulamAşağıda boş bırakılan yerleri uygun ifadelerle tamamlayınız1. Çeşitli meteorolojik araçların ve kayıt cihazlarının bulunduğu, hava durumu tahminlerini yapıldığı  merkezlere ……………………………denir2. Atmosferin kalınlığı ……………………….fazla, …………………….daha incedi3. İklim olayları ………………………….meydana  gelen  doğa olaylarıdır. 
+4. Meteorlar atmosfere girdiğinde …………………………katmanında yanarak 
+parçalanır ve toz hâline gelir5. Aynı sıcaklık değerlerini gösteren noktaların birleştirilmesiyle elde edilen eğriler ..…………eğrileri adı verilirHarita 1.16 Dünya Temmuz Ayı Sıcaklık Dağılışı Haritas2. UygulamAşağıdaki verilen ifadelerden doğru olanların karşısına "D", yanlış olanların 
+karşısına "Y" yazınız1. Karbondioksit ve su buharı atmosferde devamlı bulunan,  miktarları yere ve zaman göre değişen gazlardır( ) 
+2. Mezosfer, atmosferin yere dokunan en alt katmanıdır ( ) 
+3. Atmosfer, ısıyı tutarak Dünya’nın aşırı ısınmasını ve soğumasını engeller.         ( ) 
+4. Dar alanlarda kısa süreli etkili olan hava olaylarına iklim denir( ) 
+5. Eksosfer,  atmosferin en dışta bulunan ve en kalın katmandır( ) 
+6. Yerel saatler dikkate alınarak yapılan gözlemlere sinoptik gözlemler denir.         ( )
+7. Temmuz ayında sıcaklıkların en yüksek olduğu bölgemiz Akdeniz' dir.             ( )
+1.5.4.2 Basınç ve RüzgârlaGrafik 1. 5 Atmosfer’deki Gazların Oranı 
+21%
