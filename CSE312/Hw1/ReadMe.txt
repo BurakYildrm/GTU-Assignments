@@ -1,0 +1,6 @@
+- First open VirtualBox and create a new virtual machine named "My Operating System"
+- Then compile the project with make command
+- If this is the first time using the new virtual machine, select the iso file
+- To clean up the compile codes use make clean
+- To run the OS with process table printing, you can use the iso inside withProcessTablePrint.zip
+- To run the OS without process table printing, you can use the iso inside withoutProcessTablePrint.zip
